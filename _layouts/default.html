@@ -1,0 +1,13 @@
+---
+layout: base
+---
+
+{% comment %}Liquid is sort of terrible! I think "!= true" is the
+only way to do negation?{% endcomment %}
+{% if page.notitle != true %}
+  <h2>{{ page.title }}</h2>
+{% endif %}
+          
+<div class="content">
+{{ content }}
+</div>

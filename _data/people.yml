@@ -1,0 +1,119 @@
+# Faculty
+# Alphabetical order
+
+zjiang:
+    display_name: "Jiang Zhang"
+    role: faculty
+    image: /img/people/zhangjiang.png
+    webpage: http://swarmagents.cn.13442.m8849.cn/jake/ 
+    bio: "Professor"
+
+# Staff
+# Alphabetical order
+
+wshuo:
+    display_name: "Shuo Wang"
+    role: staff
+    image: /img/people/wangshuo.jpg
+
+
+# Postdocs
+# Alphabetical order
+#shaolin:
+#    display_name: "Shaolin Xie"
+#    role: postdoc
+#    webpage: "http://www.shawnless.net/Shawn/"
+#    image: /img/people/shaolin.jpg
+#    bio: "Program Director"
+
+# Grads
+# Alphabetical order
+lxiaodan:
+    display_name: "Xiaodan Lou"
+    role: grad
+    image: /img/people/louxiaodan.png
+
+gweiwei:
+    display_name: "Weiwei Gu"
+    role: grad
+    image: /img/people/guweiwei.png
+
+gli:
+    display_name: "Li Gong"
+    role: grad
+    image: /img/people/gongli.png
+
+xruyue:
+    display_name: "Ruyue Xin"
+    role: grad
+    image: /img/people/xingruyue.png
+
+wlei:
+    display_name: "Lei Wen"
+    role: grad
+    image: /img/people/wenlei.png
+
+cmengyuan:
+    display_name: "Mengyuan Chen"
+    role: grad
+    image: /img/people/chenmengyuan.jpg
+
+gfei:
+    display_name: "Fei Gao"
+    role: grad
+    image: /img/people/gaofei.jpg
+
+
+ljing:
+    display_name: "Jing Liu"
+    role: grad
+    image: /img/people/liujing.jpg
+
+# Alums
+# The order is: PhD/postdoc by year; MS by year; BS by year
+
+wlingfei:
+    display_name: "Lingfei Wu"
+    role: "alum"
+    image: /img/people/wulingfei.png
+    webpage: "http://parsa.epfl.ch/~jevdjic/"
+    bio: "Postdoc 2008&ndash;2010. Now at Chicago University."
+
+gliangzhu:
+    display_name: "Liangzhu Guo"
+    webpage: "https://homes.cs.washington.edu/~bholt/"
+    role: "alum"
+    #image: /img/people/bholt.jpg
+    bio: "Ph.D., 2015. Now at Beijing."
+
+
+# Undergrads
+# Alphabetical order
+
+
+# Undergrad Alums
+# Alphabetical order
+
+#chenfs:
+#    display_name: Chenfan (Frank) Sun
+#    role: ugrad-alum
+#    webpage: https://www.linkedin.com/in/chenfansun
+
+# Collaborators
+# Alphabetical order
+
+#akcheung:
+#    display_name: "Alvin Cheung"
+#    role: collab
+#    webpage: "https://homes.cs.washington.edu/~akcheung/"
+#    bio: "Assistant Professor, UW CSE"
+#    image: /img/people/akcheung.png
+
+# No role (only for retired project photos)
+
+#drkp:
+#    display_name: "Dan Ports"
+#    webpage: "http://drkp.net/"
+#    image: /img/people/drkp.jpg
+#    bio: "Research Assistant Professor"
+

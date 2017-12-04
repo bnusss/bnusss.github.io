@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ site.name }}: {{ page.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="{{site.base}}/css/bootstrap.min.css" rel="stylesheet">
+        <link href="{{site.base}}/css/sampa.css" rel="stylesheet">
+        <link rel="alternate" type="application/atom+xml" title="Atom"
+            href="{{ site.base }}/blog/blog.xml">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+        <link rel="shortcut icon" href="/img/favicon.ico">
+    </head>
+    <body>      
+        <div class="container">
+          <div class="header">
+            <a href="{{ site.base }}/">
+                <img src="{{ site.base }}/img/head.png"
+                    srcset="{{ site.base }}/img/head@2x.png 2x"
+                    alt="Sampa" id="logo">
+            </a>
+            <ul class="nav nav-pills pull-right">
+                  {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
+                  {% for item in site.navigation %}
+                    {% assign myshorturl = item.link | replace:'.html','' %}
+                    <li class="nav-item">
+                      <a class="nav-link {% if myshorturl == shorturl %}active{% endif %}" href="{{ site.base }}{{ item.link }}">
+                        {{ item.title }}
+                      </a>
+                    </li>
+                  {% endfor %}
+            </ul>
+          </div>
+
+          {{ content }}
+
+      {% include footer.html %}
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+            src="{{ site.base }}/js/srcset-polyfill.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="{{site.base}}/js/bootstrap.min.js"></script>
+        
+    </body>
+</html>

@@ -1,0 +1,47 @@
+name: BNUSSS
+url: http://bnusss.github.io
+
+exclude: [bibble, README.md, Makefile, Dockerfile]
+
+# use this library to parse Markdown
+markdown: redcarpet
+redcarpet:
+    extensions: [smart, tables, with_toc_data, strikethrough]
+
+# colorize code snippets with the pygment module
+highlighter: pygments
+
+# The path structure for blog posts.
+permalink: /blog/:year/:month/:day/:title.html
+
+# Sections on the "people" page.
+roles:
+    - {key: faculty, name: Faculty}
+    - {key: staff, name: Staff}
+    - {key: postdoc, name: Researchers}
+    - {key: grad, name: Graduate Students}
+    - {key: ugrad, name: Undergraduate Students}
+    - {key: ugrad-alum, name: Past Undergraduate Students}
+    - {key: collab, name: Collaborators}
+    - {key: alum, name: Alumni}
+
+# Number of news stories on the front page.
+front_page_news: 4
+
+# Base pathname for links.
+base: ''
+
+collections:
+  projects:
+    output: true
+
+# Navigation bar links.
+navigation:
+    - title: Home
+      link: /
+    - title: Research
+      link: /research/
+    - title: Publications
+      link: /publications.html
+    - title: Resources
+      link: /resources.html
