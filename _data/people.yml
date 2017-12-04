@@ -72,19 +72,19 @@ ljing:
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
-wlingfei:
-    display_name: "Lingfei Wu"
-    role: "alum"
-    image: /img/people/wulingfei.png
-    webpage: "http://parsa.epfl.ch/~jevdjic/"
-    bio: "Postdoc 2008&ndash;2010. Now at Chicago University."
-
-gliangzhu:
-    display_name: "Liangzhu Guo"
-    webpage: "https://homes.cs.washington.edu/~bholt/"
-    role: "alum"
-    #image: /img/people/bholt.jpg
-    bio: "Ph.D., 2015. Now at Beijing."
+#wlingfei:
+#    display_name: "Lingfei Wu"
+#    role: "alum"
+#    image: /img/people/wulingfei.png
+#    webpage: "http://parsa.epfl.ch/~jevdjic/"
+#    bio: "Postdoc 2008&ndash;2010. Now at Chicago University."
+#
+#gliangzhu:
+#    display_name: "Liangzhu Guo"
+#    webpage: "https://homes.cs.washington.edu/~bholt/"
+#    role: "alum"
+#    #image: /img/people/bholt.jpg
+#    bio: "Ph.D., 2015. Now at Beijing."
 
 
 # Undergrads
