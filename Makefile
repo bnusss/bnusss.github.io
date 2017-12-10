@@ -1,32 +1,24 @@
 PYTHON=python2.7
+SERVE_HOST ?= 0.0.0.0
+SERVE_PORT ?= 4000 # default
 
 # targets that aren't filenames
-.PHONY: all clean deploy
+.PHONY: all build serve clean
 
-all: _includes/pubs.html _site/index.html _site/wacas14/index.html
+all: build serve
 
-BUILDARGS :=
-_site/index.html _site/wacas14/index.html:
-	jekyll build --config _config.yml $(BUILDARGS)
+build: _includes/pubs.html _sites/index.html
+	jekyll build
+
+serve: _includes/pubs.html _sites/index.html
+	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)
 
 _includes/pubs.html: bib/sampa-pubs.bib bib/publications.tmpl
 	git submodule init; git submodule update
 	mkdir -p _includes
 	$(PYTHON) bibble/bibble.py $+ > $@
 
-_site/index.html: $(wildcard *.html) _includes/pubs.html _config.yml \
-	_layouts/default.html
-_site/wacas14/index.html: $(wildcard wacas14/*.md) _config.yml \
-	_layouts/wacas.html
+_sites/index.html: $(wildcard *.html) _includes/pubs.html _config.yml _layouts/default.html
 
 clean:
-	$(RM) -r _site _includes/pubs.html
-
-CSEHOST := bicycle.cs.washington.edu
-RSYNCARGS := --compress --recursive --checksum --itemize-changes \
-	--delete -e ssh --perms --chmod=ug+rw
-
-rsync:
-	rsync $(RSYNCARGS) _site/ $(CSEHOST):/cse/www2/sampa/new
-
-deploy: clean all rsync
+	rm -r _site _includes/pubs.html
