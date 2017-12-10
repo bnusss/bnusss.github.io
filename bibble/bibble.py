@@ -137,7 +137,7 @@ def main(bibfile, template):
     # Include the bibliography key in each entry.
     for k, v in db.entries.items():
         v.fields['key'] = k
-
+    
     # Render the template.
     bib_sorted = sorted(db.entries.values(), key=_sortkey, reverse=True)
     out = tmpl.render(entries=bib_sorted)

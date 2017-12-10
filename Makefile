@@ -13,7 +13,7 @@ build: _includes/pubs.html _sites/index.html
 serve: _includes/pubs.html _sites/index.html
 	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)
 
-_includes/pubs.html: bib/sampa-pubs.bib bib/publications.tmpl
+_includes/pubs.html: bib/publications.bib bib/publications.tmpl
 	git submodule init; git submodule update
 	mkdir -p _includes
 	$(PYTHON) bibble/bibble.py $+ > $@
