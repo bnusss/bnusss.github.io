@@ -20,7 +20,7 @@ Attention is a resource - and everyone is limited.（Matthew Crawford）.
  Community stickness, a measure of how much attention your site gets, more intuitively, says it calculates the average number of hits per person on that site. Figure 2 shows the daily number of users and the number of user clicks of the psychology course (autonomous mode)  
 on Xuetang online.from January to June 2017.)
 <div align="center">
-	<img src="/img/project_imgs/xtzx/pic2.pngi "height="70%" width="70%" />
+	<img src="/img/project_imgs/xtzx/pic2.png "height="70%" width="70%" />
 </div>
 
 Figure 3 shows the psychology course stickness index, the slope of the fitted line is stickness.

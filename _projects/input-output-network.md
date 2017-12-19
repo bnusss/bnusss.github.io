@@ -30,10 +30,11 @@ where the fundamental matrix U are defined as follows:
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\U= I + M + M^2 + M^3 + \cdots + M^ \infty = (I-M)^{-1}" style="border:none;">
 </div>
 
-And the IFN is: 
-	<div align="center">
-		<img src="/img/project_imgs/ion/Fig_1.png" height="90%" width="90%" />
-	</div>
+And the IFN is:
+ 
+<div align="center">
+	<img src="/img/project_imgs/ion/Fig_1.png" height="90%" width="90%" />
+</div>
 ## Result
 1. Comparison between flow distance and two typical input-output coefficients
 Compared with two typical coeiffcients, flow distance captures the information of capital transactions among sectors and structure-based information.
