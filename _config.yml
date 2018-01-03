@@ -43,5 +43,7 @@ navigation:
       link: /research/
     - title: Publications
       link: /publications.html
+    - title: Readed Papers
+      link: /readedpapers.html
     - title: Resources
       link: /resources.html
