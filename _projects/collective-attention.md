@@ -1,8 +1,8 @@
 ---
 layout: project
-
 title: Collective Attention
-
+image: /img/project_imgs/collective_attention/collective-logo.png
+description: It's a research about how to use large collective attention to represent online communities.
 people:
   - lxiaodan 
   - cmengyuan
