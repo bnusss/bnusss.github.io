@@ -16,6 +16,11 @@ wshuo:
     role: staff
     image: /img/people/wangshuo.jpg
 
+zzhang:
+    display_name: "Zhang Zhang"
+    role: staff
+    image: /img/people/zhangzhang.jpeg
+    
 
 # Postdocs
 # Alphabetical order
