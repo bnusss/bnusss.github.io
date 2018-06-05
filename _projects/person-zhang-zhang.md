@@ -1,7 +1,8 @@
 ---
-layout: project 
+layout: post 
 title: zhang-zhang
 description: try personal intruct
+status: uninactive
 
 ---
 
