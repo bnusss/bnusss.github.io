@@ -21,6 +21,12 @@ zzhang:
     role: staff
     image: /img/people/zhangzhang.png
 
+# researcher
+cqinghua:
+    display_name: "Qinghua Chen"
+    role: researcher
+    image: /img/people/chenqinghua.jpg
+    webpage: http://sss.bnu.edu.cn/~chenqinghua/
 
 # Postdocs
 # Alphabetical order

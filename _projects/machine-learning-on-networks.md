@@ -66,6 +66,11 @@ We test the robustness of our model and find that the classification results are
 Compared with other models, the biggest advantage of our model is that our model can deal with networks with different structures which is a big limitation of other classification methods. In addition, the architecture of our model is small and the computational complexity is low.
 There are several potential improvements and extensions to our model that could be addressed as future work, such as we can develop more methods to deal with the network features in high-dimensional space. Besides, we think that our model can be applied to more classification and forecasting issues like text and topic classification and predicting development of communities. Finally, we believe that extending our model to more graph-structure data would allow us to tackle a larger variety of problems.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <hr>
 
