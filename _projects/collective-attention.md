@@ -1,15 +1,18 @@
 ---
 layout: project
+
 title: Collective Attention
+
 image: /img/project_imgs/collective_attention/collective-logo.png
+
 description: Representation of Online Communities is a research about how to use large collective attention to represent online communities.Stickness of Xuetang Online: Xuetang online is a web-based open course platform developed by tsinghua university. We use the login information of users to calculate the stickness of the course.
+
 people:
   - lxiaodan 
   - cmengyuan
   - zjiang
 ---
 
-# Representation of Online Communities
 
 ## Background
 
@@ -85,8 +88,6 @@ people:
   There is no doubt that the new representation open another field to infer the future development of the community trend by analyzing from the perspective of collective attention why some communities can exist for a long time and continue to grow, while some of them only survive in a short time and then natural died.
 
 
-
-# Stickness of Xuetang Online
 
 ## Attention：
 Attention is a resource - and everyone is limited.（Matthew Crawford）.
