@@ -41,7 +41,7 @@ And concoct a page title for your post. The body of the post goes after the `---
 
 Building and Deploying
 ----------------------
-tt
+
 The requirements for building the site are:
 
 * [Jekyll][]: run `gem install jekyll`
