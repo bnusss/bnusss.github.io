@@ -67,18 +67,18 @@ wlei:
 cmengyuan:
     display_name: "Mengyuan Chen"
     role: grad
-    image: /img/people/chenmengyuan.jpg
+    image: /img/people/chenmengyuan.png
 
 gfei:
     display_name: "Fei Gao"
     role: grad
-    image: /img/people/gaofei.jpg
+    image: /img/people/gaofei.png
 
 
 ljing:
     display_name: "Jing Liu"
     role: grad
-    image: /img/people/liujing.jpg
+    image: /img/people/liujing.png
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
