@@ -19,6 +19,8 @@ Email:xxx
 
 Address:BNUxxx
 
+blog:xxx.com(personal blog)
+
 more...
 
 ## About Me
