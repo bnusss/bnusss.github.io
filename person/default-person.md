@@ -1,10 +1,10 @@
 ---
 layout: default
-title: my name
+title: Doraemon
 ---
 
 
-* [中文](https://bnusss.github.io/person/default-person-zh.html) &ndash; 中文
+## * [中文](https://bnusss.github.io/person/default-person-zh.html) &ndash; 中文
 
 
 <img src="/img/people/default-person.jpg" height="200px" width="200px" />

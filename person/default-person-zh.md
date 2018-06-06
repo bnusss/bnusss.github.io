@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 介绍我的中文页面
+title: 机器猫
 ---
 
 
-* [English Version](https://bnusss.github.io/person/default-person.html) &ndash; English Version
+## * [English Version](https://bnusss.github.io/person/default-person.html) &ndash; English Version
 
 <img src="/img/people/default-person.jpg" height="200px" width="200px" />
 
@@ -16,7 +16,7 @@ title: 介绍我的中文页面
 
 Email:xxx
 
-地址:BNUxxx
+地址:北京市北京师范大学
 
 more...
 
