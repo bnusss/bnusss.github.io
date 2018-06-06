@@ -1,11 +1,10 @@
 ---
 layout: default
-title: my name
+title: 介绍我的中文页面
 ---
 
 
-* [中文](https://bnusss.github.io/person/default-person-zh.html) &ndash; 中文
-
+* [English Version](https://bnusss.github.io/person/default-person.html) &ndash; English Version
 
 <img src="/img/people/default-person.jpg" height="200px" width="200px" />
 
@@ -13,31 +12,31 @@ title: my name
 
 请在下列题目中选择你感兴趣的 / 你觉得有料的题目填写，内容越丰富越好
 
-## Contact Me
+## 联系方式
 
 Email:xxx
 
-Address:BNUxxx
+地址:BNUxxx
 
 more...
 
-## About Me
+## 关于我
 
-I'm balabala
+我的中文介绍
 
-## Publications
+## 发表的论文和会议报告
 
-publications and their links
+论文与报告列表
 
-## Experience
+## 经历
 
-Learning in BNU from xxx to xxx
+20xx年--20xx年，学习于北京师范大学
 
 more ...
 
 ## Ohter Interests
 
-I'd like to do balabala in my spire time...
+我的兴趣有..
 
 
 * [参考页面1](https://homes.cs.washington.edu/~billzorn/) &ndash; 用作参考
