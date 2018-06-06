@@ -4,7 +4,7 @@ title: 机器猫
 ---
 
 
-## * [English Version](https://bnusss.github.io/person/default-person.html) &ndash; English Version
+#### [English Version](https://bnusss.github.io/person/default-person.html) &ndash; English Version
 
 <img src="/img/people/default-person.jpg" height="200px" width="200px" />
 
@@ -39,6 +39,6 @@ more ...
 我的兴趣有..
 
 
-* [参考页面1](https://homes.cs.washington.edu/~billzorn/) &ndash; 用作参考
-* [参考页面2](https://homes.cs.washington.edu/~vlee2/) &ndash; 用作参考
-* [参考页面3](http://www.shawnless.net/Shawn) &ndash; 用作参考
+[参考页面1](https://homes.cs.washington.edu/~billzorn/) &ndash; 用作参考
+[参考页面2](https://homes.cs.washington.edu/~vlee2/) &ndash; 用作参考
+[参考页面3](http://www.shawnless.net/Shawn) &ndash; 用作参考
