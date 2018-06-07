@@ -33,6 +33,4 @@ I'm a research assistant, School of systems science, Beijing Normal University. 
 
 ## Ohter Interests
 
-thinking/reading/learning
-
-fans of fiction
+thinking/reading/learning/Communicating
