@@ -3,6 +3,10 @@ layout: default
 title: 龚力
 ---
 
+
+#### [English Version](https://bnusss.github.io/person/gong-li.html)
+
+
 <img src="/img/people/gongli.png" height="200px" width="200px" />
 
 

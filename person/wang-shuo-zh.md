@@ -3,7 +3,11 @@ layout: default
 title: 王硕
 ---
 
-<img src="/img/people/wangshuo.jpg" height="200px" width="200px" />
+
+#### [English Version](https://bnusss.github.io/person/wang-shuo.html)
+
+
+<img src="/img/people/wangshuo.jpg" width="200px" />
 
 
 ## 联系方式

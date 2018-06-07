@@ -15,6 +15,7 @@ wshuo:
     display_name: "Shuo Wang"
     role: staff
     image: /img/people/wangshuo.jpg
+    webpage: https://bnusss.github.io/person/wang-shuo.html
 
 zzhang:
     display_name: "Zhang Zhang"
@@ -53,6 +54,7 @@ gli:
     display_name: "Li Gong"
     role: grad
     image: /img/people/gongli.png
+    webpage: https://bnusss.github.io/person/gong-li.html
 
 xruyue:
     display_name: "Ruyue Xin"

@@ -3,6 +3,9 @@ layout: default
 title: Li Gong
 ---
 
+#### [中文](https://bnusss.github.io/person/gong-li-zh.html)
+
+
 <img src="/img/people/gongli.png" height="200px" width="200px" />
 
 
