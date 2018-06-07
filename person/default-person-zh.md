@@ -21,6 +21,8 @@ Email:xxx
 
 我的博客地址：xxx.com
 
+我的github: xxx.github.com
+
 more...
 
 ## 关于我
@@ -37,7 +39,7 @@ more...
 
 more ...
 
-## Ohter Interests
+## 其他兴趣
 
 我的兴趣有..
 

@@ -13,7 +13,7 @@ title: Li Gong
 
 Email: nwglbbz@gmail.com
 
-address: Beijing Normal University
+Address: Beijing Normal University
 
 Github：https://github.com/babaozhouy5
 

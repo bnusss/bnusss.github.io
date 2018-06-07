@@ -6,7 +6,7 @@ title: Shuo Wang
 #### [中文](https://bnusss.github.io/person/wang-shuo-zh.html)
 
 
-<img src="/img/people/wangshuo.jpg" width="200px" />
+<img src="/img/people/wangshuo.jpg" height="200px" />
 
 
 ## Contact Information

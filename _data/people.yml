@@ -21,6 +21,7 @@ zzhang:
     display_name: "Zhang Zhang"
     role: staff
     image: /img/people/zhangzhang.png
+    webpage: https://bnusss.github.io/person/zhang-zhang.html
 
 # researcher
 cqinghua:

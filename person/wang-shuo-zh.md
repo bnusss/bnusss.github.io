@@ -7,7 +7,7 @@ title: 王硕
 #### [English Version](https://bnusss.github.io/person/wang-shuo.html)
 
 
-<img src="/img/people/wangshuo.jpg" width="200px" />
+<img src="/img/people/wangshuo.jpg" height="200px" />
 
 
 ## 联系方式
