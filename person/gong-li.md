@@ -24,7 +24,7 @@ Master degree candidate from Beijing Normal University, School of Systems Scienc
 
 ## Papers and Conferences
 
-Second author —— The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks. 
+Second author —— The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks.  [link](https://arxiv.org/pdf/1704.05743.pdf)
 
 ## Experiences
 

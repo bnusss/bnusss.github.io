@@ -37,7 +37,7 @@ Learning in BNU from xxx to xxx
 
 more ...
 
-## Ohter Interests
+## Other Interests
 
 I'd like to do balabala in my spire time...
 

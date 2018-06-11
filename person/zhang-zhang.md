@@ -31,6 +31,6 @@ I'm a research assistant, School of systems science, Beijing Normal University. 
 
 2017-2018 Shadow Creator in Shanghai
 
-## Ohter Interests
+## Interests
 
 thinking/reading/learning/Communicating

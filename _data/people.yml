@@ -8,20 +8,6 @@ zjiang:
     webpage: http://swarmagents.cn.13442.m8849.cn/jake/ 
     bio: "Professor"
 
-# Staff
-# Alphabetical order
-
-wshuo:
-    display_name: "Shuo Wang"
-    role: staff
-    image: /img/people/wangshuo.jpg
-    webpage: https://bnusss.github.io/person/wang-shuo.html
-
-zzhang:
-    display_name: "Zhang Zhang"
-    role: staff
-    image: /img/people/zhangzhang.png
-    webpage: https://bnusss.github.io/person/zhang-zhang.html
 
 # researcher
 cqinghua:
@@ -39,17 +25,36 @@ cqinghua:
 #    image: /img/people/shaolin.jpg
 #    bio: "Program Director"
 
+
+# Staff
+# Alphabetical order
+
+wshuo:
+    display_name: "Shuo Wang"
+    role: staff
+    image: /img/people/wangshuo.jpg
+    webpage: https://bnusss.github.io/person/wang-shuo.html
+
+zzhang:
+    display_name: "Zhang Zhang"
+    role: staff
+    image: /img/people/zhangzhang.png
+    webpage: https://bnusss.github.io/person/zhang-zhang.html
+
+
 # Grads
 # Alphabetical order
 lxiaodan:
     display_name: "Xiaodan Lou"
     role: grad
     image: /img/people/louxiaodan.png
+    webpage: https://rosdays.wordpress.com/
 
 gweiwei:
     display_name: "Weiwei Gu"
     role: grad
     image: /img/people/guweiwei.png
+    webpage: https://bnusss.github.io/person/gu-wei-wei.html
 
 gli:
     display_name: "Li Gong"
@@ -61,6 +66,7 @@ xruyue:
     display_name: "Ruyue Xin"
     role: grad
     image: /img/people/xingruyue.png
+    webpage: https://bnusss.github.io/person/xin-ru-yue.html
 
 wlei:
     display_name: "Lei Wen"
@@ -71,11 +77,13 @@ cmengyuan:
     display_name: "Mengyuan Chen"
     role: grad
     image: /img/people/chenmengyuan.png
+    webpage: https://bnusss.github.io/person/chen-meng-yuan.html
 
 gfei:
     display_name: "Fei Gao"
     role: grad
     image: /img/people/gaofei.png
+    webpage: https://bnusss.github.io/person/gao-fei.html
 
 
 ljing:

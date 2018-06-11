@@ -25,7 +25,7 @@ Email: nwglbbz@gmail.com
 
 ## 发表的论文和会议报告
 
-二作——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks. 》
+二作——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks. 》[链接](https://arxiv.org/pdf/1704.05743.pdf)
 
 ## 经历
 
