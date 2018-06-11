@@ -1,22 +1,37 @@
-# Lei Wen
-## 中文
+---
+layout: default
+title: Lei Wen
+---
 
-# Contact Me
+
+#### [中文](https://bnusss.github.io/person/wen-lei-zh.html)
+
+
+<img src="/img/people/wenlei.png" height="200px"  />
+
+## Contact Me
+
 Email: bnu2012wl@163.com
 
 Address: Beijing Normal University
 
-# About Me
+## About Me
+
 I am a graduate student, majoring in system science. The topics I am interested in are:
+
 - Complexity in economics: especially about international trade and input output system, focusing on the theory and application of flow network  
+
 - Deep learning in Graph: in particular refering to the use of 3D point clouds object classification and semantic segmentation technology for network classification and node classification.
 
-# Publications
+## Publications
+
 - 《Comparison Between World Value-added Trade Network and International Trade Network》 （international Business Research）
 
-# Experiences
+## Experiences
+
 - Internation Trade, School of Economics, Beijing Normal University(BA)
 - System Theory, School of Systems Science, Beijing Normal University(Master)
 
-# Other Interests
+## Other Interests
+
 Dancing, Singing
