@@ -245,7 +245,7 @@ ul.project-people {
 
 /* Sampa logo */
 #logo {
-    width: 154px;
+    width: 200px;
     /* height: 35px; */
     /* margin: 2px 0 8px 0; */
 }
@@ -366,4 +366,11 @@ ul.news {
 }
 
 #proj-people {
+}
+
+.nav-pills .nav-item+.nav-item, .nav-tabs .nav-item+.nav-item{
+    margin-top:10px;
+}
+.nav-pills .nav-item{
+    margin-top:10px;
 }
