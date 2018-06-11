@@ -12,8 +12,11 @@ title: 高飞
 
 ## 联系方式：
 Email: philip.sss@mail.bnu.edu.cn
+
 地址：北京市北京师范大学系统科学学院
+
 知乎： https://www.zhihu.com/people/dian-gan-70/activities
+
 GitHub： https://github.com/HENTAIBOY
 
 ## 关于我

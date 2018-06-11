@@ -12,8 +12,11 @@ title: Fei Gao
 
 ## Contact Me
 Email: philip.sss@mail.bnu.edu.cn
+
 Address：School of System Science, Beijing Normal University, Beijing 100875, P.R. China
+
 zhihu： https://www.zhihu.com/people/dian-gan-70/activities
+
 GitHub： https://github.com/HENTAIBOY
 
 ## About Me

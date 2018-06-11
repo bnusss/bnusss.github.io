@@ -7,7 +7,7 @@ title: 谷伟伟
 #### [English Version](https://bnusss.github.io/person/gu-wei-wei.html)
 
 
-<img src="/img/people/gongli.png" height="200px" width="200px" />
+<img src="/img/people/guweiwei.png" height="200px" width="200px" />
 
 
 ## 联系方式

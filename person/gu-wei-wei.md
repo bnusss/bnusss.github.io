@@ -6,7 +6,7 @@ title: Weiwei Gu
 #### [中文](https://bnusss.github.io/person/gu-wei-wei-zh.html)
 
 
-<img src="/img/people/gongli.png" height="200px" width="200px" />
+<img src="/img/people/guweiwei.png" height="200px" width="200px" />
 
 
 ## Contact Me
