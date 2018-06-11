@@ -22,8 +22,9 @@ I am a PhD. candidate of Beijing Normal University, School of Systems Science. A
 
 ## Papers and Conferences
 
-First author——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks.》(Scientific Reports)
-First author——《Bringing Embeddedness Theory In: The Dynamic Evolution of a Chinese Venture Capital Network.》(Social Networks, under review) 
+- First author——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks.》(Scientific Reports)
+
+- First author——《Bringing Embeddedness Theory In: The Dynamic Evolution of a Chinese Venture Capital Network.》(Social Networks, under review) 
 
 ## Experiences
 

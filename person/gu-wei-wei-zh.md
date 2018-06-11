@@ -23,8 +23,9 @@ Email: guweiwei@mail.bnu.edu.cn
 
 ## 发表的论文和会议报告
 
-一作——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks.》(Scientific Reports,三区)
-一作——《Bringing Embeddedness Theory In: The Dynamic Evolution of a Chinese Venture Capital Network.》(Social Networks,一区， under review)
+- 一作——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks.》(Scientific Reports,三区)
+
+- 一作——《Bringing Embeddedness Theory In: The Dynamic Evolution of a Chinese Venture Capital Network.》(Social Networks,一区， under review)
 ## 经历
 
 2015年--今，就读于北京师范大学
