@@ -72,6 +72,7 @@ wlei:
     display_name: "Lei Wen"
     role: grad
     image: /img/people/wenlei.png
+    webpage: https://bnusss.github.io/person/wen-lei.html
 
 cmengyuan:
     display_name: "Mengyuan Chen"
@@ -90,6 +91,7 @@ ljing:
     display_name: "Jing Liu"
     role: grad
     image: /img/people/liujing.png
+    webpage: https://bnusss.github.io/person/liu-jing.html
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
