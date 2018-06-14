@@ -7,7 +7,7 @@ title: 陈孟园
 #### [English Version](https://bnusss.github.io/person/chen-meng-yuan.html)
 
 
-<img src="/img/people/chenmengyuan.png" height="200px"/>
+<img src="/img/people/chenmengyuan_1.png" height="200px"/>
 
 ## 联系方式
 Email: chenmy.sharon@gmail.com

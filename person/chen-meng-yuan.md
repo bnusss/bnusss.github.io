@@ -7,7 +7,7 @@ title: Mengyuan Chen
 #### [中文](https://bnusss.github.io/person/chen-meng-yuan-zh.html)
 
 
-<img src="/img/people/chenmengyuan.png" height="200px"/>
+<img src="/img/people/chenmengyuan_1.png" height="200px"/>
 
 
 ## Contact Me
