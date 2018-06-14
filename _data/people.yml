@@ -16,6 +16,12 @@ cqinghua:
     image: /img/people/chenqinghua.jpg
     webpage: http://sss.bnu.edu.cn/~chenqinghua/index_en.htm
 
+lxiaomeng:
+    display_name: "Xiaomeng Li"
+    role: postdoc
+    image: /img/people/lixiaomeng_sq.png
+    webpage: https://bnusss.github.io/person/li-xiao-meng.html
+
 # Postdocs
 # Alphabetical order
 #shaolin:
