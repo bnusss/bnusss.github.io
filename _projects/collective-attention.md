@@ -20,8 +20,20 @@ people:
 
 [Current projects](#pos3)
 * [Atlas of Chinese WWW](#pos31)
+	- [Purpose](#pos311)
+	- [Method](#pos312)
+	- [Result](#pos313)
+	- [conclusions](#pos314)
 * [Representation of online communities](#pos32)
+	- [Purpose](#pos321)
+	- [Method](#pos322)
+	- [conclusions](#pos323)
 * [Stickness of Xuetang Online](#pos33)
+	- [Attention](#pos331)
+	- [What we are doing with Attention theory](#pos332)
+	- [Result](#pos333)
+	- [Conclusion and discussion](#pos334)
+
 
 
 
@@ -76,13 +88,16 @@ In each second, 684478 pieces of content will be shared on Facebook, 204166667 e
 <div id="pos31"></div>
 ## Atlas of Chinese WWW
 
+<div id="pos311"></div>
 ### Purpose:
 Clickstream defined as ordered sequence of web pages or resources viewed by users can be treated as an embodiment of collective attention. Most of traditional clickstream studies only focus on single website, especially in E-commercial field, without thinking about the allocation of collective attention on different resources. The allocation of attention flows on the World Wide Web scale is seldom addressed in previous studies.  Thus, we hope to obtain an Atlas of Chinese web sites by embedding the entire network into a high dimensional space to make a geometric representation of collective attention flows, in which each web site is treated as an organism striving for user’s limited attention resembling energy flows in ecosystems. Then we can have an overall picture of how collective attention distributes among websites and how websites are connected by clickstreams. 
 
+<div id="pos312"></div>
 ### Method
 #### Data
 
 The data is obtained from a Chinese Internet institution, which has collected more than 30000 online volunteers’ browsing data for about 5 years. To better analyze, we randomly sample the entire data set to build up a smaller data set containing 120 million records of all the clicking behaviors of 1000 users within one month. Each record containing the information of 64-bits time stamps, window names, the types of browses, URLs, and information of users, etc., is a switch of user’s jump between two URLs. First, we extract the domain names from the URLs since we only care about the inter-domain attention flows. 
+
 
 #### Network construction
 
@@ -90,12 +105,12 @@ We parse all the data to construct an open flow network, where a node is a site,
 
 <img src="/img/project_imgs/collective_attention/atlas_of_chinese_www1.png" height="70%" width="70%" />
 
-
 ### Network embedding algorithm
 
 we embed the entire network into a Euclidean space according to all the flow distances. The embedding is fulfilled such that all the Euclidean distances between any sites are closed to the symmetric flow distances as possible as it can. We use the spring algorithm [17] to do that. We suppose that there is a spring between two nodes and its natural length equals the symmetric flow distance of this nodes pair. Thus, they will be stretched or compressed unless all the springs are in natural lengths and the energy of all springs is minimized. Where, the energy is defined as the differences between the Euclidean distance and the symmetric flow distance for all node pairs.
 
 
+<div id="pos313"></div>
 ##### Results
 ##### 1.The atlas of the Chinese World Wide Web ecosystem
 
@@ -109,6 +124,8 @@ This is the visualization of embedding and the cluster analysis of the network. 
 
 This is the cumulative distributions of attention flow, web site and dissipation. X−axis represents the distance from the center, and Y−axis is the cumulative percentages of the quantities of interest, the points represent the actual data and two yellow dashed lines are the quantiles.
 
+
+<div id="pos314"></div>
 ##### Conclusions and discussions
 
 we embed the most popular Chinese web sites into a high dimensional Euclidean space based on the open flow network model of a large number of Chinese users’ collective attention flows, which both considers the connection topology of hyperlinks between the sites and the collective behaviors of the users. With these tools, we rank the web sites and compare their centralities based on flow distances with other metrics. We also study the patterns of attention flow allocation, and find that a large number of web sites concentrate on the central area of the embedding space, and only a small fraction of web sites disperses in the periphery. The entire embed- ding space can be separated into 3 regions (core, interim, and periphery). The sites in the core (1%) occupy a majority of the attention flows (40%), and the sites (34%) in the interim attract 40%, whereas other sites (65%) only take 20% flows. What’s more, we clustered the web sites into 4 groups according to their positions in the space, and found that similar web sites in contents and topics are grouped together. In short, by incorporating the open flow network model, k model of a large we can clearly see how collective attention allocates and flows on different web sites, and how web sites connected each other.
@@ -125,13 +142,14 @@ we embed the most popular Chinese web sites into a high dimensional Euclidean sp
 
   As a result, a large number of scientists have putted a lot of energy into analyzin the development of the community and build a series of models. Howerver, most of the traditional research focuses on specific networks, especially those that have achieved great success, such as facebook, twitter, flicker and others. Few people pay attention to those communities that have short life time. In addition, it is seldom possible to characterize the development of the entire community from the perspective of a large scale, instead, people often simulate the development of the whole community by individuals behaviour. Recently, Sanjay Kairam et al., Through the perspective of the entire community network structure, hoped to predict the growth and life cycle of a community and achieved good results.
 
-
+<div id="pos321"></div>
 ### Purpose
 
   In our opinion, the structure of a community network does play a certain role in the development of a community. However, since a community has been able to develop continuously, it is constantly attracting users to click on it. The whole network is also structured by users Scouring behavior patterns, so to predict whether a community can survive and grow rapidly, understanding the user behavior in this community is the most essential solution.
 
   A large number of users click-through data in communitise gave us the possibility and convenience of this research. And in order to be able to study user patterns in different communities and eliminate other factors, we chose stackexchange as it is a series of Q&A network communities platform, it contains a total of 154 communities, covering a variety of topics in different fields. We hope to find out the indicators that can describe and measure the good or bad of a community according to the different patterns of behavior of users in these communities and use it to predict the growth of a community.
 
+<div id="pos322"></div>
 ### Method
 
 1. Data from Stack Exchange
@@ -143,6 +161,7 @@ we embed the most popular Chinese web sites into a high dimensional Euclidean sp
   		<div align="center" style="padding-bottom:20px">Communities growth</div>
 	</div>
 
+<div id="pos323"></div>
 2. Construction of attention flow network
 
 	  In this Q&A platform, the sequences that people answer from one question to another in a community can be seen as the transfer of the attention. Thus, we can use the [open flow network](http://wiki.swarma.net/index.php/%E6%B5%81%E5%8A%A8%E7%BD%91%E7%BB%9C), a special directed weighted network, to describe the flow of the users’ attention among those various questions.
@@ -153,6 +172,7 @@ we embed the most popular Chinese web sites into a high dimensional Euclidean sp
 <div id="pos33"></div>
 ## Stickness of Xuetang Online
 
+<div id="pos331"></div>
 ### Attention：
 Attention is a resource - and everyone is limited.（Matthew Crawford）.
       The core resources of the information society are attention, attention is limited and scarce, and the competition for attention has promoted the development of society. The Internet is a place for attention trading. for example，the Internet ecosystem , if a website has more and more users, it gets more and more attention, and it is more important for users, then people will put more attention to improve it. Conversely, if a site has a small user base, it gets less attention and develops more slowly, or diminishing with less attention.Figure 1 is an Internet Attention Ecosystem. Google search engine is at the center of the Internet. The bigger the point, the more attention the site gets.
@@ -176,6 +196,7 @@ The psychology course has a slope of 1.09.
 	<img src="/img/project_imgs/xtzx/pic3.png" height="70%" width="70%" />
 </div>
 
+<div id="pos332"></div>
 ### What we are doing with Attention theory:
 Predicting community development ，We want to predict the success of a given community；
 Calculate the stickiness of the forum for each course and evaluate the quality of the course ；
@@ -208,6 +229,7 @@ Mining Course Structures: How does the tree structure affect attention flow?
 		<div align="center" style="padding-bottom:20px">Network representation under the resource space</div>
 	</div>
 
+<div id="pos333"></div>
 ### Result
 
 1. The representation under the new method
@@ -225,6 +247,7 @@ Mining Course Structures: How does the tree structure affect attention flow?
 		<div align="center" style="padding-bottom:20px">The relationship between Entropy of angles and the increase number of Q&A</div>
 	</div>
 
+<div id="pos334"></div>
 ### Conclusion and discussion
 
   The result exposes the vital role of users’ attention and their breadth of interests that can lead a community grow better. Besides, Experiments on a variety of different time periods community prediction illustrate the effectiveness of this method and it has a high robustness. Our method does not exploit the content of the community and can be easily applied to any networks from a small sample of the users visit data. This result can be relevant for online marketing and provide reasonable advices for community management.
