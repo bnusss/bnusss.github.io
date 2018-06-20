@@ -120,7 +120,7 @@ This is the visualization of embedding and the cluster analysis of the network. 
 
 2.The distributions of attention flow, dissipation, and web site
 
-<img src="/img/project_imgs/collective_attention/atlas_of_chinese_www2.png" height="70%" width="70%" />
+<img src="/img/project_imgs/collective_attention/atlas_of_chinese_www3.png" height="70%" width="70%" />
 
 This is the cumulative distributions of attention flow, web site and dissipation. X−axis represents the distance from the center, and Y−axis is the cumulative percentages of the quantities of interest, the points represent the actual data and two yellow dashed lines are the quantiles.
 
