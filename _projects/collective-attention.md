@@ -12,23 +12,24 @@ people:
 <hr/>
 
 
-[Introduction of Collective attention](#user-content-Introduction of Collective attention)
+[Introduction of Collective attention](#pos1)
 
-[Reference](#user-content-Reference)
-
-
-[Current projects](#user-content-Current projects)
-* [Atlas of Chinese WWW](#user-content-Atlas of Chinese WWW)
-* [Representation of online communities](#user-content-Representation of online communities)
-* [Stickness of Xuetang Online](#user-content-Stickness of Xuetang Online)
+[Reference](#pos2)
 
 
+[Current projects](#pos3)
+* [Atlas of Chinese WWW](#pos31)
+* [Representation of online communities](#pos32)
+* [Stickness of Xuetang Online](#pos33)
 
+
+
+<div id="pos1"></div>
 # Introduction of Collective attention
 
 In each second, 684478 pieces of content will be shared on Facebook, 204166667 emails will be sent, 100000 tweets will be posted, 27778 new posts will be published on Tumblr, and 571 new websites will be created, data keeps growing with no signs of stopping [1]. However, only 3 billion users (2014) consume this ever-accumulating information on the Internet [1], we are drowning in the sea of information and data. As pointed out by H.A. Simon, “a wealth of information creates a poverty of attention” [2], Thus, Collective attention as a fast booming area has attracted much attention of researchers since the seminal works of B.A. Huberman et al [3-6]. The preliminary definition of collective attention is a series of limitation resources are focused or visited by a large number of groups, including clicks, posts, thumb ups and so on. Previous works on collective attention focus more on a single web site. for example, Wu and Huberman used the data from a news web try to learn the influence of the popularity and innovation of news on attention, and they found there exist a phase-change behavior triggered by information sequencing strategy [6]. With the development of social media, some researchers start to study the competition for limited attention among multiple information resources [7]. They figured out this competition can be simplified as a branch of critical process and contain the critical phenomenon [8]. On the other hand, the collective attention shows various patterns along with the time series, especially before or after the arrival of hot issues. It may have different burst patterns [9, 10] and this outbreak has a certain similarity with the firing pattern of neurons in brain [11]. Besides, the collective attention also has significant influence on the creation of knowledge [12, 13], stock fluctuation of [14], political party election results of prediction [15], scientific research interest of transfer [16], extreme events forecast [17], and so on
 
-
+<div id="pos2"></div>
 # Reference
 [1] Website of Internet live Stats, available from http://www.internetlivestats.com/
 
@@ -68,8 +69,10 @@ In each second, 684478 pieces of content will be shared on Facebook, 204166667 e
 
 
 
+<div id="pos3"></div>
 # Current projects
 
+<div id="pos31"></div>
 ## Atlas of Chinese WWW
 
 ### Purpose:
@@ -110,7 +113,9 @@ This is the cumulative distributions of attention flow, web site and dissipation
 we embed the most popular Chinese web sites into a high dimensional Euclidean space based on the open flow network model of a large number of Chinese users’ collective attention flows, which both considers the connection topology of hyperlinks between the sites and the collective behaviors of the users. With these tools, we rank the web sites and compare their centralities based on flow distances with other metrics. We also study the patterns of attention flow allocation, and find that a large number of web sites concentrate on the central area of the embedding space, and only a small fraction of web sites disperses in the periphery. The entire embed- ding space can be separated into 3 regions (core, interim, and periphery). The sites in the core (1%) occupy a majority of the attention flows (40%), and the sites (34%) in the interim attract 40%, whereas other sites (65%) only take 20% flows. What’s more, we clustered the web sites into 4 groups according to their positions in the space, and found that similar web sites in contents and topics are grouped together. In short, by incorporating the open flow network model, k model of a large we can clearly see how collective attention allocates and flows on different web sites, and how web sites connected each other.
 
 
-
+<br><br><br><br>
+<hr/>
+<div id="pos32"></div>
 ## Representation of Online Communities 
 
 ### Background
@@ -141,9 +146,10 @@ we embed the most popular Chinese web sites into a high dimensional Euclidean sp
 
 	  In this Q&A platform, the sequences that people answer from one question to another in a community can be seen as the transfer of the attention. Thus, we can use the [open flow network](http://wiki.swarma.net/index.php/%E6%B5%81%E5%8A%A8%E7%BD%91%E7%BB%9C), a special directed weighted network, to describe the flow of the users’ attention among those various questions.
 
-
+<br><br><br><br>
 <hr>
 
+<div id="pos33"></div>
 ## Stickness of Xuetang Online
 
 ### Attention：
