@@ -27,6 +27,8 @@ people:
 	- [Result](#pos313)
 	- [Conclusion and discussion](#pos314)
 * [Learning of Dynamics on networks](#pos32)
+* [Network reconstruction with machine learning](#pos33)
+
 
 
 
@@ -140,9 +142,14 @@ There are several potential improvements and extensions to our model that could 
 <br><br><br><br>
 <hr/>
 <div id="pos32"></div>
-# Learning of Dynamics on networks
+## Learning of Dynamics on networks
 
 Used deep learning algorithm Graph Convolutional Neural Networks (GCNs) to study the propagation dynamics on network, and to predict node states. We are testing our model on SIR model, BN network, Kuramoto model, and traffice flow networks. 
 
 <br><br><br><br>
 <hr/>
+
+<div id="pos33"></div>
+## Network reconstruction with machine learning
+
+We use machine learning method to reconstruct the structure of network.We infer the structure by using gradient information when knowing the dynamic of the network. We are testing our model on Kuramoto model and BN network.
