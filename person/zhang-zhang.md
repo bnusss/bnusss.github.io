@@ -16,7 +16,6 @@ Email:ericinisa@163.com
 
 Address:Beijing Normal University
 
-Blog:3riccc.farbox.com
 
 ## About Me
 

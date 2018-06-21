@@ -16,7 +16,6 @@ Email:ericinisa@163.com
 
 Address:北京师范大学系统科学学院
 
-Blog:3riccc.farbox.com
 
 ## 关于我
 
