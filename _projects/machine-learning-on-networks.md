@@ -73,7 +73,7 @@ Graphs can represent relations in real world. More and more scientists are reali
 
 Recently the studies of complex network mainly focus on the properties of a single complex network, and seldom pay attention to the comparisons, classifications, and clustering different complex networks, even though these problems are also important. And while deep learning technology has achieved state-of-art results in the processing of Euclidean Data but still under development for graph-structure data, such as social network data, international trade network data and so on. So we consider the study of classification problem of complex networks with deep learning methods. 
 
-<div id="311"></div>
+<div id="pos311"></div>
 ### Purpose
 
 Let's consider the classification problem of complex networks. We know that the social network behind the online community impacts the development of the community because these social ties between users can be treated as the backbones of the online community. Thereafter, we can diagnose an online community by comparing and distinguishing their connected modes. A social network classifier may help us to predict if an online community has a brilliant future or not.
@@ -81,7 +81,7 @@ As for the product flows on international trade network. While a trade network c
 Further, the classification problem of complex networks can be easily extended to the prediction problem. For example, we can predict the country's economic development based on a country's industrial network, or predict the company's performance based on a company's interactive structure, and so on. We can also use well-trained classifiers as feature extractors to discover features in complex networks automatically.
 
 
-<div id="312"></div>
+<div id="pos312"></div>
 ### Method
 
 We proposed the model of complex network classifier(CNC) to fulfill the task of classifying complex networks by combining network embedding and CNN neural network techniques together. We first embed a network into a high-dimensional space through the Deepwalk algorithm, which preserves the local structures of the network and convert it into a 2-dimensional image. Finally, we put the image into CNN for training and testing.
@@ -91,7 +91,7 @@ We proposed the model of complex network classifier(CNC) to fulfill the task of 
 </div>
 
 
-<div id="313"></div>
+<div id="pos313"></div>
 ### Result
 
 #### 1, Classification of networks
@@ -130,7 +130,7 @@ We compare our model CNC with some baseline methods such as graph kernel methods
 
 
 
-<div id="314"></div>
+<div id="pos314"></div>
 ### Conclusion and discussion
 
 Compared with other models, the biggest advantage of our model is that our model can deal with networks with different structures which is a big limitation of other classification methods. In addition, the architecture of our model is small and the computational complexity is low.
@@ -140,7 +140,7 @@ There are several potential improvements and extensions to our model that could 
 
 <br><br><br><br>
 <hr/>
-<div id="32"></div>
+<div id="pos32"></div>
 # Learning of Dynamics on networks
 
 Used deep learning algorithm Graph Convolutional Neural Networks (GCNs) to study the propagation dynamics on network, and to predict node states. We are testing our model on SIR model, BN network, Kuramoto model, and traffice flow networks. 
