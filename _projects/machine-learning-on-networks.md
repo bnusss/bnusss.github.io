@@ -27,11 +27,8 @@ people:
 	- [Result](#pos313)
 	- [Conclusion and discussion](#pos314)
 * [Learning of Dynamics on networks](#pos32)
-* [Stickness of Xuetang Online](#pos33)
-	- [Attention](#pos331)
-	- [What we are doing with Attention theory](#pos332)
-	- [Result](#pos333)
-	- [Conclusion and discussion](#pos334)
+
+
 # Deep Learning on Complex Network
 
 
