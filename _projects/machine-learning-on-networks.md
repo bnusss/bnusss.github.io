@@ -29,7 +29,6 @@ people:
 * [Learning of Dynamics on networks](#pos32)
 
 
-# Deep Learning on Complex Network
 
 
 <div id="pos1"></div>
