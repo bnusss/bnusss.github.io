@@ -9,6 +9,48 @@ people:
 
 ---
 
+
+
+# Catalog
+
+[Introduction](#pos1)
+
+[Reference](#pos2)
+
+
+[Current projects](#pos3)
+* [The Hidden Flow Structure and Metric Space under Random Walk based Network Embedding Algorithms](#pos31)
+* [Input Output Network](#pos32)
+	- [Purpose](#pos321)
+	- [Method](#pos322)
+	- [Results](#pos323)
+
+<div id="pos1"></div>
+# Introduction
+
+Network embedding which encodes all vertices in a network as a set of numerical vectors in accordance with it’s local and global structures, has drawn widespread attention. Network embedding not only learns significant features of a network, such as the clustering and linking prediction but also learns the latent vector representation of the nodes which provides theoretical support for a variety of applications, such as visualization, node classification, and recommendation. 
+
+In the past decade, there has been a lot of research in the field of graph embedding, with a focus on designing new embedding algorithms. More recently, researchers pushed forward scalable embedding algorithms that can be applied on graphs with millions of nodes and edges. In the following, we provide historical context about the research progress in this domain, then propose a taxonomy of graph embedding techniques  covering factorization methods, random walk techniques, deep learning , and other miscellaneous strategies.
+
+
+<div id="pos2"></div>
+# Reference
+
+- D. Wang, P. Cui, and W. Zhu, “Structural deep network em-bedding,” in Proceedings of the 22nd International Conference on Knowledge Discovery and Data Mining. ACM, 2016, pp. 1225–1234.
+
+- S. Cao, W. Lu, and Q. Xu, : Learning graph representations with global structural information in Proceedings of the 24th ACM International on Conference on Information and Knowledge Manage-ment. ACM, 2015.
+
+- B. Perozzi, R. Al-Rfou, and S. Skiena, Deepwalk: Online learning of social representations, in Proceedings 20th international confer-ence on Knowledge discovery and data mining, 2014.
+
+- A. Grover and J. Leskovec, Node2vec: Scalable feature learning for networks? In Proceedings of the 22nd International Conference on Knowledge Discovery and Data Mining. ACM, 2016.
+
+- S. Cao, W. Lu, and Q. Xu, “Deep neural networks for learning graph representations,” in Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence. AAAI Press, 2016, pp. 1145–1152.
+
+
+<div id="pos3"></div>
+# Current projects
+
+<div id="pos31"></div>
 ## The Hidden Flow Structure and Metric Space under Random Walk based Network Embedding Algorithms
 
 
@@ -44,15 +86,18 @@ To build a connection between language and network, a random walk needs to be im
 
 <hr>
 
+<div id="pos32"></div>
 # Input Output Network
 
 
 ## Background
 The main content of input-output analysis is comprehending the technical and economic relationship between the sectors and quantitatively describing it is is an emphatic issue in the region economy research. However, few studies put effort into extracting the macro-level characteristics from the microscopic connections between these sectors and quantitatively comparing two economies from their structures.
 
+<div id="pos321"></div>
 ## Purpose
 We propose a network-based approach to treat industrial system as an open flow network where source and sink node are considered as environment to depict the influence of final demand and value-added. This new framework allows us to define a new distance(flow distance) by which we can capture information of directly consumed relationship and topological structure. Empirically, we demonstrate and compare the industrial structures of China and the United States, noticing some industries possess totally different ecological niches in different countries. Further, temporal data of flow distances can simulate the evolution of an industry, where our model deductions is proved by empirical evidences.
 
+<div id="pos322"></div>
 ## Method
 We convert the input-output table to an open flow network, called industry flow network(IFN). There are two types of nodes in IFN: one type is the industry node, where a node is an independent sector; the other is the source and the sink node, which represents the external market environment, including final demand and value added respectively. The links in network denote the sale and purchase relationships between producers and consumers within an economy.
 
@@ -73,6 +118,8 @@ And the IFN is:
 <div align="center">
 	<img src="/img/project_imgs/ion/Fig_1.png" height="90%" width="90%" />
 </div>
+
+<div id="pos323"></div>
 ## Result
 1. Comparison between flow distance and two typical input-output coefficients
 Compared with two typical coeiffcients, flow distance captures the information of capital transactions among sectors and structure-based information.
