@@ -156,7 +156,8 @@ Used deep learning algorithm Graph Convolutional Neural Networks (GCNs) to study
 We use machine learning method to reconstruct the structure of network.We infer the structure by using gradient information when knowing the dynamic of the network. We are testing our model on Kuramoto model and BN network.
 
 
-
+<br><br><br><br>
+<hr/>
 
 <div id="pos34"></div>
 ## Link prediction
