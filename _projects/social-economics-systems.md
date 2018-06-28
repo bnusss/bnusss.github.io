@@ -2,7 +2,7 @@
 layout: project 
 title: Socioeconomic Systems
 description: This part of the study includes the modelling of the city, the scale distribution of the enterprise, the formation of the price in the auction, the naming process, the law in the Chinese language, the international trade, the migration of the population, the behavior of the scientists and so on.
-image: /img/project_imgs/ion/input-output.png
+image: /img/project_imgs/ion/input-output.jpg
 people:
   - cqinghua
   - lxiaomeng
