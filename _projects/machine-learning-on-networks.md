@@ -4,7 +4,7 @@ title: Machine Learning on Network
 image: /img/project_imgs/dlon/dlon-logo.png
 description: Machine Learning on complex network. We try to solve complex network problems with machine learning methods.
 people:
-  - wlei 
+  - gweiwei
   - xruyue
   - zzhang
   - zjiang
@@ -28,6 +28,7 @@ people:
 	- [Conclusion and discussion](#pos314)
 * [Learning of Dynamics on networks](#pos32)
 * [Network reconstruction with machine learning](#pos33)
+* [Link prediction](#pos34)
 
 
 
@@ -153,3 +154,17 @@ Used deep learning algorithm Graph Convolutional Neural Networks (GCNs) to study
 ## Network reconstruction with machine learning
 
 We use machine learning method to reconstruct the structure of network.We infer the structure by using gradient information when knowing the dynamic of the network. We are testing our model on Kuramoto model and BN network.
+
+
+
+
+<div id="pos34"></div>
+## Link prediction
+Link prediction aims to infer the missing links or predicting future ones based on the currently observed network. It has become a fundamental and attractive area of study since it has a wide range of applications ranging from social network recommendation to information retrieval. 
+
+Most existing approaches require either the local or global link structure as the source of information and do not scale for large and sparse networks. 
+
+To address this problem, we generalize recent advances in deep learning and present Deep Linker, a general inductive attention framework that leverages high dimensional node attributes to efficiently learn link structures with layers of latent variables. 
+
+Our model uses both the local and global link information of the network, and learns a function that represent nodes by sampling and aggregating nodes’ neighborhood features. 
+With this sampling strategy, DBLP is not only efficient for training but also scales for large dense networks.  

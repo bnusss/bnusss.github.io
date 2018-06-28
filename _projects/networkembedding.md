@@ -5,6 +5,7 @@ description: Network embedding encodes all vertices in a network as a set of num
 image: /img/project_imgs/ne/networkembedding.png
 people:
   - gweiwei
+  - wlei
   - zjiang
 
 ---
