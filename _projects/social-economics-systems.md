@@ -31,9 +31,13 @@ people:
 There are enormous complexity in the socia-economics system, not only because of the huge interaction elements in the system, but also because of the human participation, the expectation, the incomplete information, the group and so on, which make the system understandability and predictability great challenge. This part of the study includes the modelling of the city, the scale distribution of the enterprise, the formation of the price in the auction, the naming process, the law in the Chinese language, the international trade, the migration of the population, the behavior of the scientists and so on.
 
 
+
 <div id="pos2"></div>
 # Projects
 
+
+<br><br><br><br>
+<hr/>
 
 <div id="pos21"></div>
 ## Growth Model of Cities
