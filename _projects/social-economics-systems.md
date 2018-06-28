@@ -53,7 +53,8 @@ Based on the previous research, we proposed our own growth model of cities. The 
 
 
 
-
+<br><br><br><br>
+<hr/>
 
 <div id="pos22"></div>
 ## Smarter than Others? Conjectures in Lowest Unique Bid Auctions
