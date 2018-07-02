@@ -206,14 +206,14 @@ Clustering students to analyze Whether the learning trajectory of learners Curri
 Mining Course Structures: How does the tree structure affect attention flow?
 )'
 
-	<div align="center">
+<div align="center">
 		<img src="/img/project_imgs/collective_attention/raw_data.png" height="70%" width="70%" /> 
 		<div align="center" style="padding-bottom:20px">Raw data conversion</div>
-	</div>
-	<div align="center">
-		<img src="/img/project_imgs/collective_attention/construct_flownetwork.png" height="70%" width="70%" />
-		<div align="center" style="padding-bottom:20px">Construction of open flow network</div>
-	</div>
+</div>
+<div align="center">
+	<img src="/img/project_imgs/collective_attention/construct_flownetwork.png" height="70%" width="70%" />
+	<div align="center" style="padding-bottom:20px">Construction of open flow network</div>
+</div>
 
 3. Flow Distance
 
