@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## 2018 spring semester
 
 - **Date:** 2018.05.21
