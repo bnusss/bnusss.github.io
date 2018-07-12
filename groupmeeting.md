@@ -15,6 +15,7 @@ title: Group Meeting List
 - **Title:**
 
 - **Abstract:**
+
 ---
 
 - **Date:** 2018.07.09
@@ -28,6 +29,7 @@ title: Group Meeting List
 - **Abstract:** Restricted Boltzmann machines (RBMs) are probabilistic graphical models that can be interpreted as stochastic neural networks. The increase in computational power and the development of faster learning algorithms have made them applicable to relevant machine learning problems. They attracted much attention recently after being proposed as building blocks of multi-layer learning systems called deep belief networks. This tutorial introduces RBMs as undirected graphical models. The basic concepts of graphical models are introduced first, however, basic knowledge in statistics is presumed. Different learning algorithms for RBMs are discussed. As most of them are based on Markov chain Monte Carlo (MCMC) methods, an introduction to Markov chains and the required MCMC techniques is provided.
 
 - **Slide link:** http://210.31.72.204/f/424
+
 ---
 
 - **Date:** 2018.07.02
@@ -39,6 +41,7 @@ title: Group Meeting List
 人脑连接组学等研究领域的最新进展
 
 - **Slide link:** http://210.31.72.204/f/423
+
 ---
 
 - **Date:** 2018.06.25
@@ -52,6 +55,7 @@ title: Group Meeting List
 - **Abstract:** The design of good heuristics or approximation algorithms for NP-hard combinatorial optimization problems often requires significant specialized knowledge and trial-and-error. Can we automate this challenging, tedious process, and learn the algorithms instead? In many real-world applications, it is typically the case that the same optimization problem is solved again and again on a regular basis, maintaining the same problem structure but differing in the data. This provides an opportunity for learning heuristic algorithms that exploit the structure of such recurring problems. In this paper, we propose a unique combination of reinforcement learning and graph embedding to address this challenge. The learned greedy policy behaves like a meta-algorithm that incrementally constructs a solution, and the action is determined by the output of a graph embedding network capturing the current state of the solution. We show that our framework can be applied to a diverse range of optimization problems over graphs, and learns effective algorithms for the Minimum Vertex Cover, Maximum Cut and Traveling Salesman problems.
 
 - **Slide link:** http://210.31.72.204/f/419
+
 ---
 
 - **Date:** 2018.06.18
@@ -64,6 +68,7 @@ title: Group Meeting List
 - **Abstract:** We propose a novel deep learning-based framework to tackle the challenge of semantic segmentation of large-scale point clouds of millions of points. We argue that the organization of 3D point clouds can be efficiently captured by a structure called superpoint graph (SPG), derived from a partition of the scanned scene into geometrically homogeneous elements. SPGs offer a compact yet rich representation of contextual relationships between object parts, which is then exploited by a graph convolutional network. Our framework sets a new state of the art for segmenting outdoor LiDAR scans (+11.9 and +8.8 mIoU points for both Semantic3D test sets), as well as indoor scans (+12.4 mIoU points for the S3DIS dataset).
 
 - **Slide link:** http://210.31.72.204/f/418
+
 ---
 
 - **Date:** 2018.06.11
@@ -108,6 +113,7 @@ the scalability of our scheme using the Kuramoto-Sivashinsky equation as an exam
 spatiotemporally chaotic system.
 
 - **Slide link:** http://210.31.72.204/f/414
+
 ---
 
 - **Date:** 2018.05.21
