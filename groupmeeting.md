@@ -12,9 +12,12 @@ title: Group Meeting List
 
 - **Reporter:** Wang Xindi (State Key Laboratory of Cognitive Neuroscience and Learning-BNU)
 
-- **Title:**
+- **Title:** Mapping higher-order relations between brain structure and function with embedded vector representations of connectomes
 
-- **Abstract:**
+- **Abstract:** Connectomics generates comprehensive maps of brain networks, represented as nodes and their pairwise connections. The functional roles of nodes are defined by their direct and indirect connectivity with the rest of the network. However, the network context is not directly accessible at the level of individual nodes. Similar problems in language processing have been addressed with algorithms such as word2vec that create embeddings of words and their relations in a meaningful low-dimensional vector space. Here we apply this approach to create embedded vector representations of brain networks or connectome embeddings (CE). CE can characterize correspondence relations among brain regions, and can be used to infer links that are lacking from the original structural diffusion imaging, e.g., inter-hemispheric homotopic connections. Moreover, we construct predictive deep models of functional and structural connectivity, and simulate network-wide lesion effects using the face processing system as our application domain. We suggest that CE offers a novel approach to revealing relations between connectome structure and function.
+
+- **Slide link:** http://210.31.72.204/f/425
+
 
 ---
 
@@ -80,7 +83,7 @@ title: Group Meeting List
 
 - **Abstract:** A number of problems can be formulated as prediction on graph-structured data. In this work, we generalize the convolution operator from regular grids to arbitrary graphs while avoiding the spectral domain, which allows us to handle graphs of varying size and connectivity. To move beyond a simple diffusion, filter weights are conditioned on the specific edge labels in the neighborhood of a vertex. Together with the proper choice of graph coarsening, we explore constructing deep neural networks for graph classification. In particular, we demonstrate the generality of our formulation in point cloud classification, where we set the new state of the art, and on a graph classification dataset, where we outperform other deep learning approaches. The source code is available at this https URL
 
-- **Slide link:** 
+- **Slide link:** http://210.31.72.204/f/416
 
 ---
 
