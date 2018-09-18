@@ -3,9 +3,83 @@ layout: default
 title: Group Meeting List
 ---
 
-## 2018 spring semester
+# 2018 autumn semester
+
+---
+---
+
+<!-- 
+- **Date:** 
+
+- **Reporter:** 
+
+- **Title:** 
+
+- **Abstract:**
+
+- **Slide link:**  -->
 
 
+- **Date:** 2018.09.17
+
+- **Reporter:** Xin Ruyue
+
+- **Title:** Global Network Prediction from Local Node Dynamics
+
+- **Abstract:** The study of dynamical systems on networks, describing complex interactive processes, provides insight into how network structure affects global behaviour. Yet many methods for network dynamics fail to cope with large or partially-known networks, a ubiquitous situation in real-world applications. Here we propose a localised method, applicable to a broad class of dynamical models on networks, whereby individual nodes monitor and store the evolution of their own state and use these values to approximate, via a simple computation, their own steady state solution. Hence the nodes predict their own final state without actually reaching it. Furthermore, the localised formulation enables nodes to compute global network metrics without knowledge of the full network structure. The method can be used to compute global rankings in the network from local information; to detect community detection from fast, local transient dynamics; and to identify key nodes that compute global network metrics ahead of others. We illustrate some of the applications of the algorithm by efficiently performing web-page ranking for a large internet network and identifying the dynamic roles of inter-neurons in the C. Elegans neural network. The mathematical formulation is simple, widely applicable and easily scalable to real-world datasets suggesting how local computation can provide an approach to the study of large-scale network dynamics.
+
+- **Slide link:** http://210.31.72.204/f/444
+
+---
+
+- **Date:** 2018.09.17
+
+- **Reporter:** Liu Jing
+
+- **Title:** Learning dynamics on complex networks using GCN
+
+- **Slide link:** http://210.31.72.204/f/446
+
+---
+
+- **Date:** 2018.09.10
+
+- **Reporter:** Wen Lei
+
+- **Title:** NetGAN: Generating Graphs via Random Walks
+
+- **Abstract:** We propose NetGAN - the first implicit generative model for graphs able to mimic real-world networks. We pose the problem of graph generation as learning the distribution of biased random walks over the input graph. The proposed model is based on a stochastic neural network that generates discrete output samples and is trained using the Wasserstein GAN objective. NetGAN is able to produce graphs that exhibit well-known network patterns without explicitly specifying them in the model definition. At the same time, our model exhibits strong generalization properties, as highlighted by its competitive link prediction performance, despite not being trained specifically for this task. Being the first approach to combine both of these desirable properties, NetGAN opens exciting avenues for further research.
+
+- **Slide link:** http://210.31.72.204/f/441
+
+---
+
+- **Date:** 2018.09.10
+
+- **Reporter:** Gao Fei
+
+- **Title:** Link Prediction using Graph Attention Model
+
+- **Slide link:** http://210.31.72.204/f/443
+
+---
+
+- **Date:** 2018.09.03
+
+- **Reporter:** Wang Lifei
+
+- **Title:** Single cell imputing problem
+
+- **Slide link:** http://210.31.72.204/f/445
+
+---
+---
+
+
+# 2018 spring semester
+
+
+---
 ---
 
 - **Date:** 2018.07.09
