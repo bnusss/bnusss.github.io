@@ -7,7 +7,7 @@ title: 辛茹月
 #### [English Version](https://bnusss.github.io/person/xin-ru-yue.html)
 
 
-<img src="/img/people/xinruyue.png" height="200px"  />
+<img src="/img/people/xinruyue.jpeg" height="200px"  />
 
 
 ## 联系方式
