@@ -7,7 +7,7 @@ title: Ruyue Xin
 #### [中文](https://bnusss.github.io/person/xin-ru-yue-zh.html)
 
 
-<img src="/img/people/xinruyue.png" height="200px"  />
+<img src="/img/people/xinruyue.jpeg" height="200px"  />
 
 
 ## Contact Me
