@@ -5,9 +5,6 @@ title: Group Meeting List
 
 # 2018 autumn semester
 
----
----
-
 <!-- 
 - **Date:** 
 
@@ -18,6 +15,28 @@ title: Group Meeting List
 - **Abstract:**
 
 - **Slide link:**  -->
+
+
+- **Date:** 2018.10.08
+
+- **Reporter:** Chen Mengyuan
+
+- **Title:** Learning Consumer and Producer Embeddings for User-Generated Content Recommendation
+
+- **Abstract:** User-Generated Content (UGC) is at the core of web applications where users can both produce and consume content. This differs from traditional e-Commerce domains where content producers and consumers are usually from two separate groups. In this work, we propose a method CPRec (consumer and producer based recom- mendation), for recommending content on UGC-based platforms. Specifically, we learn a core embedding for each user and two trans- formation matrices to project the user’s core embedding into two ‘role’ embeddings (i.e., a producer and consumer role). We model each interaction by the ternary relation between the consumer, the consumed item, and its producer. Empirical studies on two large-scale UGC applications show that our method outperforms standard collaborative filtering methods as well as recent methods that model producer information via item features.
+
+- **Slide link:** http://210.31.72.204/f/450
+
+---
+
+
+- **Date:** 2018.10.08
+
+- **Reporter:** Wang Lifei
+
+- **Title:** Variational auto-encoder，VAE
+
+---
 
 
 - **Date:** 2018.09.25
@@ -98,10 +117,6 @@ title: Group Meeting List
 
 
 # 2018 spring semester
-
-
----
----
 
 - **Date:** 2018.07.09
 
