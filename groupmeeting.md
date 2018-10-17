@@ -59,6 +59,8 @@ title: Group Meeting List
 
 - **Title:** Variational auto-encoder，VAE
 
+- **Slide Link:** http://210.31.72.204/f/459
+
 ---
 
 
