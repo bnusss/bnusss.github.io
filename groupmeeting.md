@@ -19,6 +19,44 @@ title: Group Meeting List
 
 ---
 
+- **Date:** 2018.10.29
+
+- **Reporter:** Wen Lei
+
+- **Title:** 公司的异速生长
+
+---
+
+- **Date:** 2018.10.29
+
+- **Reporter:** Gu Weiwei
+
+- **Title:** Deep Linker
+
+<!-- - **Abstract:**
+
+- **Slide link:**  -->
+
+---
+
+- **Date:** 2018.10.22
+
+- **Reporter:** Li Benji
+
+- **Title:** 基于摘要内容差异性的学术文献引用模式分析
+
+- **Slide link:** http://210.31.72.204/f/461
+
+---
+
+- **Date:** 2018.10.22
+
+- **Reporter:** Lou Xiaodan
+
+- **Title:** Bot Model
+
+---
+
 - **Date:** 2018.10.15
 
 - **Reporter:** Liu Jing
@@ -28,6 +66,7 @@ title: Group Meeting List
 - **Abstract:** Physical systems differing in their microscopic details often display strikingly similar behaviour when probed at macroscopic scales. Those universal properties, largely determining their physical characteristics, are revealed by the powerful renormalization group (RG) procedure, which systematically retains ‘slow’ degrees of freedom and integrates out the rest. However, the important degrees of freedom may be difficult to identify. Here we demonstrate a machine-learning algorithm capable of identifying the relevant degrees of freedom and executing RG steps iteratively without any prior knowledge about the system. We introduce an artificial neural network based on a model-independent, information-theoretic characterization of a real-space RG procedure, which performs this task. We apply the algorithm to classical statistical physics problems in one and two dimensions. We demonstrate RG flow and extract the Ising critical exponent. Our results demonstrate that machine-learning techniques can extract abstract physical concepts and consequently become an integral part of theory- and model-building.
 
 - **Slide link:** http://210.31.72.204/f/457
+
 ---
 
 - **Date:** 2018.10.15
