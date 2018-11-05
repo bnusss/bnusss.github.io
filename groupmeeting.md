@@ -16,6 +16,27 @@ title: Group Meeting List
 
 - **Slide link:**  -->
 
+---
+
+- **Date:** 2018.11.05
+
+- **Reporter:** Liu Jing
+
+- **Title:** Deep Graph Infomax
+
+- **Abstract:** We present Deep Graph Infomax (DGI), a general approach for learning node representations within graph-structured data in an unsupervised manner. DGI relies on maximizing mutual information between patch representations and corresponding high-level summaries of graphs---both derived using established graph convolutional network architectures. The learnt patch representations summarize subgraphs centered around nodes of interest, and can thus be reused for downstream node-wise learning tasks. In contrast to most prior approaches to graph representation learning, DGI does not rely on random walks, and is readily applicable to both transductive and inductive learning setups. We demonstrate competitive performance on a variety of node classification benchmarks, which at times even exceeds the performance of supervised learning.
+
+- **Slide link:** http://210.31.72.204/f/465
+
+---
+
+- **Date:** 2018.11.05
+
+- **Reporter:** Gao Fei
+
+- **Title:** 社群分析——以SSS为例
+
+- **Slide link:** http://210.31.72.204/f/464
 
 ---
 
@@ -33,9 +54,7 @@ title: Group Meeting List
 
 - **Title:** Deep Linker
 
-<!-- - **Abstract:**
-
-- **Slide link:**  -->
+- **Slide link:** http://210.31.72.204/f/462
 
 ---
 
