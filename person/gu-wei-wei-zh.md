@@ -25,7 +25,7 @@ Email: guweiwei@mail.bnu.edu.cn
 
 - 一作——《The Hidden Flow Structure and Metric Space of Network Embedding Algorithms Based on Random Walks.》(Scientific Reports,三区)
 
-- 一作——《Bringing Embeddedness Theory In: The Dynamic Evolution of a Chinese Venture Capital Network.》(Social Networks,一区， under review)
+- 一作——《Exploring Small-World Network with an Elite-Clique: Bringing Embeddedness Theory into the Dynamic Evolution of a Venture Capital Network》(Social Networks,一区)
 
 ## 经历
 
