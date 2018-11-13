@@ -5,6 +5,7 @@ title: Group Meeting List
 
 # 2018 autumn semester
 
+
 <!-- 
 - **Date:** 
 
@@ -15,6 +16,29 @@ title: Group Meeting List
 - **Abstract:**
 
 - **Slide link:**  -->
+
+
+- **Date:** 2018.11.12
+
+- **Reporter:** Zhang Zhang
+
+- **Title:** Learning dynamics and structure on networks
+
+<!-- - **Abstract:** -->
+
+- **Slide link:** http://210.31.72.204/f/468
+
+---
+
+- **Date:** 2018.11.12
+
+- **Reporter:** Chen Mengyuan
+
+- **Title:** Deep Learning based Recommender System: A Survey and New Perspectives
+
+- **Abstract:** With the ever-growing volume of online information, recommender systems have been an effective strategy to overcome such information overload. The utility of recommender systems cannot be overstated, given its widespread adoption in many web applications, along with its potential impact to ameliorate many problems related to over-choice. In recent years, deep learning has garnered considerable interest in many research fields such as computer vision and natural language processing, owing not only to stellar performance but also the attractive property of learning feature representations from scratch. The influence of deep learning is also pervasive, recently demonstrating its effectiveness when applied to information retrieval and recommender systems research. Evidently, the field of deep learning in recommender system is flourishing. This article aims to provide a comprehensive review of recent research efforts on deep learning based recommender systems. More concretely, we provide and devise a taxonomy of deep learning based recommendation models, along with providing a comprehensive summary of the state-of-the-art. Finally, we expand on current trends and provide new perspectives pertaining to this new exciting development of the field.
+
+- **Slide link:** http://210.31.72.204/f/466
 
 ---
 
