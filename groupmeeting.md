@@ -18,6 +18,32 @@ title: Group Meeting List
 - **Slide link:**  -->
 
 
+- **Date:** 2018.11.19
+
+- **Reporter:** Wang Shuo
+
+- **Title:** dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning
+
+- **Abstract:** Learning graph representations is a fundamental task aimed at capturing various properties of graphs in vector space. The most recent methods learn such representations for static networks. However, real world networks evolve over time and have varying dynamics. Capturing such evolution is key to predicting the properties of unseen networks. To understand how the network dynamics affect the prediction performance, we propose an embedding approach which learns the structure of evolution in dynamic graphs and can predict unseen links with higher precision. Our model, dyngraph2vec, learns the temporal transitions in the network using a deep architecture composed of dense and recurrent layers. We motivate the need of capturing dynamics for prediction on a toy data set created using stochastic block models. We then demonstrate the efficacy of dyngraph2vec over existing state-of-the-art methods on two real world data sets. We observe that learning dynamics can improve the quality of embedding and yield better performance in link prediction.
+
+- **Slide link:** http://210.31.72.204/f/469
+
+---
+
+
+- **Date:** 2018.11.19
+
+- **Reporter:** Lv Huayifu
+
+- **Title:** Deep learning, quantum chaos, and pseudorandom evolution
+
+- **Abstract:** By modeling quantum chaotic dynamics with ensembles of random operators, we explore how a deep learning architecture known as a convolutional neural network (CNN) can be used to detect pseudorandom behavior in qubit systems. We analyze samples consisting of pieces of correlation functions and find that a CNN is capable of determining the degree of pseudorandomness which a system is subject to. This is done without computing any correlators explicitly. Interestingly, even samples drawn from two-point functions are found to be sufficient to solve this classification problem. This presents the possibility of using deep learning algorithms to explore late time behavior in chaotic quantum systems which have been inaccessible to simulation.
+
+- **Slide link:** http://210.31.72.204/f/470
+
+---
+
+
 - **Date:** 2018.11.12
 
 - **Reporter:** Zhang Zhang
