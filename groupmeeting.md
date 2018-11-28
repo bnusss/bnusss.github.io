@@ -18,6 +18,26 @@ title: Group Meeting List
 - **Slide link:**  -->
 
 
+- **Date:** 2018.11.26
+
+- **Reporter:** Huang Yu
+
+- **Title:** Deep Interest Evolution Network for Click-Through Rate Prediction
+
+- **Abstract:** Click-through rate~(CTR) prediction, whose goal is to estimate the probability of the user clicks, has become one of the core tasks in advertising systems. For CTR prediction model, it is necessary to capture the latent user interest behind the user behavior data. Besides, considering the changing of the external environment and the internal cognition, user interest evolves over time dynamically. There are several CTR prediction methods for interest modeling, while most of them regard the representation of behavior as the interest directly, and lack specially modeling for latent interest behind the concrete behavior. Moreover, few work consider the changing trend of interest. In this paper, we propose a novel model, named Deep Interest Evolution Network~(DIEN), for CTR prediction. Specifically, we design interest extractor layer to capture temporal interests from history behavior sequence. At this layer, we introduce an auxiliary loss to supervise interest extracting at each step. As user interests are diverse, especially in the e-commerce system, we propose interest evolving layer to capture interest evolving process that is relative to the target item. At interest evolving layer, attention mechanism is embedded into the sequential structure novelly, and the effects of relative interests are strengthened during interest evolution. In the experiments on both public and industrial datasets, DIEN significantly outperforms the state-of-the-art solutions. Notably, DIEN has been deployed in the display advertisement system of Taobao, and obtained 20.7\% improvement on CTR.
+
+- **Slide link:** http://210.31.72.204/f/471
+
+---
+
+- **Date:** 2018.11.26
+
+- **Reporter:** Wen Lei
+
+- **Title:** 规模：从生物、城市到公司
+
+---
+
 - **Date:** 2018.11.19
 
 - **Reporter:** Wang Shuo
