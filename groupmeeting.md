@@ -18,6 +18,26 @@ title: Group Meeting List
 - **Slide link:**  -->
 
 
+- **Date:** 2018.12.3
+
+- **Reporter:** Li Benji
+
+- **Title:** Career on the Move: Geography,Stratification, and Scientific Impact
+
+- **Slide link:** http://210.31.72.204/f/474
+
+---
+
+- **Date:** 2018.12.3
+
+- **Reporter:** Wang Lifei
+
+- **Title:** 介绍了利用互信息重构网络和Gaussian Graphic Model
+
+- **Slide link:** http://210.31.72.204/f/473 and http://210.31.72.204/f/472
+
+---
+
 - **Date:** 2018.11.26
 
 - **Reporter:** Huang Yu
