@@ -18,6 +18,18 @@ title: Group Meeting List
 - **Slide link:**  -->
 
 
+- **Date:** 2018.12.10
+
+- **Reporter:** Lou Xiaodan
+
+- **Title:** Graph Convolutional Networks for Text Classification
+
+- **Abstract:** Text classification is an important and classical problem in natural language processing. There have been a number of studies that applied convolutional neural networks (convolution on regular grid, e.g., sequence) to classification. However, only a limited number of studies have explored the more flexible graph convolutional neural networks (convolution on non-grid, e.g., arbitrary graph) for the task. In this work, we propose to use graph convolutional networks for text classification. We build a single text graph for a corpus based on word co-occurrence and document word relations, then learn a Text Graph Convolutional Network (Text GCN) for the corpus. Our Text GCN is initialized with one-hot representation for word and document, it then jointly learns the embeddings for both words and documents, as supervised by the known class labels for documents. Our experimental results on multiple benchmark datasets demonstrate that a vanilla Text GCN without any external word embeddings or knowledge outperforms state-of-the-art methods for text classification. On the other hand, Text GCN also learns predictive word and document embeddings. In addition, experimental results show that the improvement of Text GCN over state-of-the-art comparison methods become more prominent as we lower the percentage of training data, suggesting the robustness of Text GCN to less training data in text classification.
+
+- **Slide link:** http://210.31.72.204/f/475
+
+---
+
 - **Date:** 2018.12.3
 
 - **Reporter:** Li Benji
