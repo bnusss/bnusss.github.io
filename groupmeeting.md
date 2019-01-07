@@ -18,6 +18,32 @@ title: Group Meeting List
 - **Slide link:**  -->
 
 
+- **Date:** 2019.1.7
+
+- **Reporter:** Chen Mengyuan
+
+- **Title:** Every Node Counts: Self-Ensembling Graph Convolutional Networks for Semi-Supervised Learning
+
+- **Abstract:** Graph convolutional network (GCN) provides a powerful means for graph-based semi-supervised tasks. However, as a localized first-order approximation of spectral graph convolution, the classic GCN can not take full advantage of unlabeled data, especially when the unlabeled node is far from labeled ones. To capitalize on the information from unlabeled nodes to boost the training for GCN, we propose a novel framework named Self-Ensembling GCN (SEGCN), which marries GCN with Mean Teacher - another powerful model in semi-supervised learning. SEGCN contains a student model and a teacher model. As a student, it not only learns to correctly classify the labeled nodes, but also tries to be consistent with the teacher on unlabeled nodes in more challenging situations, such as a high dropout rate and graph collapse. As a teacher, it averages the student model weights and generates more accurate predictions to lead the student. In such a mutual-promoting process, both labeled and unlabeled samples can be fully utilized for backpropagating effective gradients to train GCN. In three article classification tasks, i.e. Citeseer, Cora and Pubmed, we validate that the proposed method matches the state of the arts in the classification accuracy.
+
+- **Slide link:** http://210.31.72.204/f/480
+
+
+---
+
+- **Date:** 2018.12.24
+
+- **Reporter:** Mou Muyun
+
+- **Title:** Inductive Representation Learning on Large Graphs
+
+- **Abstract:** Low-dimensional embeddings of nodes in large graphs have proved extremely useful in a variety of prediction tasks, from content recommendation to identifying protein functions. However, most existing approaches require that all nodes in the graph are present during training of the embeddings; these previous approaches are inherently transductive and do not naturally generalize to unseen nodes. Here we present GraphSAGE, a general, inductive framework that leverages node feature information (e.g., text attributes) to efficiently generate node embeddings for previously unseen data. Instead of training individual embeddings for each node, we learn a function that generates embeddings by sampling and aggregating features from a node's local neighborhood. Our algorithm outperforms strong baselines on three inductive node-classification benchmarks: we classify the category of unseen nodes in evolving information graphs based on citation and Reddit post data, and we show that our algorithm generalizes to completely unseen graphs using a multi-graph dataset of protein-protein interactions.
+
+- **Slide link:** http://210.31.72.204/f/479
+
+---
+
+
 - **Date:** 2018.12.17
 
 - **Reporter:** Gao Fei
