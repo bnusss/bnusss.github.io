@@ -21,7 +21,7 @@ role_remain:
 
 <h2>News</h2>
 <ul class="news">
-{% for post in site.posts limit: site.front_page_news %}
+{% for post in site.posts %}
 {% include news-item.html item=post %}
 {% endfor %}
     {% assign numposts = site.posts | size %}
