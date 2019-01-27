@@ -7,7 +7,7 @@ title: Doraemon
 #### [English](https://bnusss.github.io/person/mou-mu-yun.html)
 
 
-<img src="/img/people/moumuyun.jpg" height="200px" width="200px" />
+<img src="/img/people/moumuyun.png" height="200px" width="200px" />
 
 ## Contact Me
 

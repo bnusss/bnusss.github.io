@@ -99,6 +99,13 @@ ljing:
     image: /img/people/liujing.png
     webpage: https://bnusss.github.io/person/liu-jing.html
 
+
+mmuyun:
+    display_name: "Muyun Mou"
+    role: grad
+    image: /img/people/moumuyun.png
+    webpage: https://bnusss.github.io/person/mou-mu-yun.html
+
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
