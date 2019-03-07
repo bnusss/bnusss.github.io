@@ -10,6 +10,10 @@ authors.
  * [wiki](http://wiki.swarma.net/) &ndash; Our research wiki
  * [swarma club](http://swarma.org) &ndash; Swarma Club
  * [Deep Learning Server Instructions](https://shimo.im/docs/QSfHhg4Epv0H2dFv) &ndash; Server Instructions
+ * [How to read a paper](https://bnusss.github.io/resource/how_to_read_a_paper.pdf) &ndash; How to read a paper
+* [Toolkit for bnusss](https://github.com/bnusss/bnusss_toolkit) &ndash; Toolkit for bnusss
+
+
 
 See the licensing terms within each project's codebase for the requisite legal
 details.
