@@ -14,5 +14,4 @@ authors.
  * [Toolkit for bnusss](https://github.com/bnusss/bnusss_toolkit) &ndash; Toolkit for bnusss
  * [Video Record for Group Meeting (contact zzhang for extracting code)](https://pan.baidu.com/s/1VWUWIBZH-txaMsEt5LLpTw) &ndash; Video Recording
 
-See the licensing terms within each project's codebase for the requisite legal
-details.
+See the licensing terms within each project's codebase for the requisite legal details.
