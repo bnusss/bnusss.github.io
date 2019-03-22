@@ -15,6 +15,7 @@ title: Group Meeting List
 - **Title:** Hyperspherical Variational Auto-Encoders
 
 - **Keyword:**
+<br>
 <img src="https://bnusss.github.io/img/keyword/Hyperspherical_Variational_Auto-Encoders.txt.png" alt="">
 
 - **Abstract:** The Variational Auto-Encoder (VAE) is one of the most used unsupervised machine learning models. But although the default choice of a Gaussian distribution for both the prior and posterior represents a mathematically convenient distribution often leading to competitive results, we show that this parameterization fails to model data with a latent hyperspherical structure. To address this issue we propose using a von Mises-Fisher (vMF) distribution instead, leading to a hyperspherical latent space. Through a series of experiments we show how such a hyperspherical VAE, or -VAE, is more suitable for capturing data with a hyperspherical latent structure, while outperforming a normal, -VAE, in low dimensions on other data types.
