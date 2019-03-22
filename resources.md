@@ -11,8 +11,8 @@ authors.
  * [swarma club](http://swarma.org) &ndash; Swarma Club
  * [Deep Learning Server Instructions](https://shimo.im/docs/QSfHhg4Epv0H2dFv) &ndash; Server Instructions
  * [How to read a paper](https://bnusss.github.io/resource/how_to_read_a_paper.pdf) &ndash; How to read a paper
-* [Toolkit for bnusss](https://github.com/bnusss/bnusss_toolkit) &ndash; Toolkit for bnusss
-
+ * [Toolkit for bnusss](https://github.com/bnusss/bnusss_toolkit) &ndash; Toolkit for bnusss
+ * [Video Record for Group Meeting (contact zzhang for extracting code)](https://pan.baidu.com/s/1VWUWIBZH-txaMsEt5LLpTw)
 
 See the licensing terms within each project's codebase for the requisite legal
 details.
