@@ -14,7 +14,7 @@ title: Group Meeting List
 
 - **Title:** Hyperspherical Variational Auto-Encoders
 
-- **Keyword:**
+- **Keywords:**
 <br>
 <img src="https://bnusss.github.io/img/keyword/Hyperspherical_Variational_Auto-Encoders.txt.png" alt="">
 
@@ -31,7 +31,7 @@ title: Group Meeting List
 
 - **Title:** MODELING RELATIONAL DATA WITH GRAPH CONVOLUTIONAL NETWORKS
 
-- **Keyword:**
+- **Keywords:**
 <br>
 <img src="https://bnusss.github.io/img/keyword/gcn.txt.png" alt="">
 
@@ -63,6 +63,11 @@ title: Group Meeting List
 
 - **Title:** Every Node Counts: Self-Ensembling Graph Convolutional Networks for Semi-Supervised Learning
 
+- **Keywords:**
+<br>
+<img src="./img/keyword/Every_Node_Counts-_Self-Ensembling_Graph_Convolutional_Networks_for_Semi-Supervised_Learning.txt.png" alt="">
+
+
 - **Abstract:** Graph convolutional network (GCN) provides a powerful means for graph-based semi-supervised tasks. However, as a localized first-order approximation of spectral graph convolution, the classic GCN can not take full advantage of unlabeled data, especially when the unlabeled node is far from labeled ones. To capitalize on the information from unlabeled nodes to boost the training for GCN, we propose a novel framework named Self-Ensembling GCN (SEGCN), which marries GCN with Mean Teacher - another powerful model in semi-supervised learning. SEGCN contains a student model and a teacher model. As a student, it not only learns to correctly classify the labeled nodes, but also tries to be consistent with the teacher on unlabeled nodes in more challenging situations, such as a high dropout rate and graph collapse. As a teacher, it averages the student model weights and generates more accurate predictions to lead the student. In such a mutual-promoting process, both labeled and unlabeled samples can be fully utilized for backpropagating effective gradients to train GCN. In three article classification tasks, i.e. Citeseer, Cora and Pubmed, we validate that the proposed method matches the state of the arts in the classification accuracy.
 
 - **Slide link:** http://210.31.72.204/f/480
@@ -75,6 +80,12 @@ title: Group Meeting List
 - **Reporter:** Mou Muyun
 
 - **Title:** Inductive Representation Learning on Large Graphs
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/Inductive_Representation_Learning_on_Large_Graphs.txt.png" alt="">
+
+
 
 - **Abstract:** Low-dimensional embeddings of nodes in large graphs have proved extremely useful in a variety of prediction tasks, from content recommendation to identifying protein functions. However, most existing approaches require that all nodes in the graph are present during training of the embeddings; these previous approaches are inherently transductive and do not naturally generalize to unseen nodes. Here we present GraphSAGE, a general, inductive framework that leverages node feature information (e.g., text attributes) to efficiently generate node embeddings for previously unseen data. Instead of training individual embeddings for each node, we learn a function that generates embeddings by sampling and aggregating features from a node's local neighborhood. Our algorithm outperforms strong baselines on three inductive node-classification benchmarks: we classify the category of unseen nodes in evolving information graphs based on citation and Reddit post data, and we show that our algorithm generalizes to completely unseen graphs using a multi-graph dataset of protein-protein interactions.
 
@@ -89,6 +100,12 @@ title: Group Meeting List
 
 - **Title:** Learning Dynamic Embeddings from Temporal Interactions
 
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/Learning_Dynamic_Embeddings_from_Temporal_Interaction_Networks.txt.png" alt="">
+
+
 - **Abstract:** Modeling a sequence of interactions between users and items (e.g., products, posts, or courses) is crucial in domains such as e-commerce, social networking, and education to predict future interactions. Representation learning presents an attractive solution to model the dynamic evolution of user and item properties, where each user/item can be embedded in a euclidean space and its evolution can be modeled by dynamic changes in embedding. However, existing embedding methods either generate static embeddings, treat users and items independently, or are not scalable. 
 Here we present JODIE, a coupled recurrent model to jointly learn the dynamic embeddings of users and items from a sequence of user-item interactions. JODIE has three components. First, the update component updates the user and item embedding from each interaction using their previous embeddings with the two mutually-recursive Recurrent Neural Networks. Second, a novel projection component is trained to forecast the embedding of users at any future time. Finally, the prediction component directly predicts the embedding of the item in a future interaction. For models that learn from a sequence of interactions, traditional training data batching cannot be done due to complex user-user dependencies. Therefore, we present a novel batching algorithm called t-Batch that generates time-consistent batches of training data that can run in parallel, giving massive speed-up. 
 We conduct six experiments on two prediction tasks---future interaction prediction and state change prediction---using four real-world datasets. We show that JODIE outperforms six state-of-the-art algorithms in these tasks by up to 22.4%. Moreover, we show that JODIE is highly scalable and up to 9.2x faster than comparable models. As an additional experiment, we illustrate that JODIE can predict student drop-out from courses five interactions in advance.
@@ -102,6 +119,11 @@ We conduct six experiments on two prediction tasks---future interaction predicti
 - **Reporter:** Lou Xiaodan
 
 - **Title:** Graph Convolutional Networks for Text Classification
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/Graph_Convolutional_Networks_for_Text_Classification_.txt.png" alt="">
+
 
 - **Abstract:** Text classification is an important and classical problem in natural language processing. There have been a number of studies that applied convolutional neural networks (convolution on regular grid, e.g., sequence) to classification. However, only a limited number of studies have explored the more flexible graph convolutional neural networks (convolution on non-grid, e.g., arbitrary graph) for the task. In this work, we propose to use graph convolutional networks for text classification. We build a single text graph for a corpus based on word co-occurrence and document word relations, then learn a Text Graph Convolutional Network (Text GCN) for the corpus. Our Text GCN is initialized with one-hot representation for word and document, it then jointly learns the embeddings for both words and documents, as supervised by the known class labels for documents. Our experimental results on multiple benchmark datasets demonstrate that a vanilla Text GCN without any external word embeddings or knowledge outperforms state-of-the-art methods for text classification. On the other hand, Text GCN also learns predictive word and document embeddings. In addition, experimental results show that the improvement of Text GCN over state-of-the-art comparison methods become more prominent as we lower the percentage of training data, suggesting the robustness of Text GCN to less training data in text classification.
 
