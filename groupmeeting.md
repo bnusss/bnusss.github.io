@@ -6,6 +6,25 @@ title: Group Meeting List
 
 # 2019 spring semester
 
+
+
+---
+
+- **Date:** 2019.03.25
+
+- **Reporter:** Liu Jing
+
+- **Title:** Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/Combinatorial_Optimization_with_Graph_Convolutional_Networks_and_Guided_Tree_Search.txt.png" alt="">
+
+- **Abstract:** We present a learning-based approach to computing solutions for certain NP- hard problems. Our approach combines deep learning techniques with useful algorithmic elements from classic heuristics. The central component is a graph convolutional network that is trained to estimate the likelihood, for each vertex in a graph, of whether this vertex is part of the optimal solution. The network is designed and trained to synthesize a diverse set of solutions, which enables rapid exploration of the solution space via tree search. The presented approach is evaluated on four canonical NP-hard problems and five datasets, which include benchmark satisfiability problems and real social network graphs with up to a hundred thousand nodes. Experimental results demonstrate that the presented approach substantially outperforms recent deep learning work, and performs on par with highly optimized state-of-the-art heuristic solvers for some NP-hard problems. Experiments indicate that our approach generalizes across datasets, and scales to graphs that are orders of magnitude larger than those used during training.
+
+- **Slide link:** http://210.31.72.204/f/486
+
+
 ---
 
 - **Date:** 2019.03.18
