@@ -7,6 +7,34 @@ title: Group Meeting List
 # 2019 spring semester
 
 
+---
+
+- **Date:** 2019.04.08
+
+- **Reporter:** Xin Ruyue
+
+- **Title:** Modeling Relational Data with Graph Convolutional Networks
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/R-GCN.txt.png" alt="">
+
+- **Abstract:** Knowledge graphs enable a wide variety of applications, in- cluding question answering and information retrieval. De- spite the great effort invested in their creation and mainte- nance, even the largest (e.g., Yago, DBPedia or Wikidata) remain incomplete. We introduce Relational Graph Convo- lutional Networks (R-GCNs) and apply them to two standard knowledge base completion tasks: Link prediction (recovery of missing facts, i.e. subject-predicate-object triples) and en- tity classification (recovery of missing entity attributes). R- GCNs are related to a recent class of neural networks operat- ing on graphs, and are developed specifically to deal with the highly multi-relational data characteristic of realistic knowl- edge bases. We demonstrate the effectiveness of R-GCNs as a stand-alone model for entity classification. We further show that factorization models for link prediction such as DistMult can be significantly improved by enriching them with an en- coder model to accumulate evidence over multiple inference steps in the relational graph, demonstrating a large improve- ment of 29.8% on FB15k-237 over a decoder-only baseline.
+
+- **Slide link:** http://210.31.72.204/f/487
+
+
+---
+
+- **Date:** 2019.04.01
+
+- **Reporter:** Wang Shuo
+
+- **Title:** GCN, GAT, GraphSAGE 框架回顾及其 PyG 复现
+
+- **Slide link:** http://210.31.72.204/f/488
+
+
 
 ---
 
