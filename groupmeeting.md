@@ -9,6 +9,24 @@ title: Group Meeting List
 
 ---
 
+- **Date:** 2019.04.15
+
+- **Reporter:** Chen Mengyuan
+
+- **Title:** GENERATIVE GRAPH CONVOLUTIONAL NETWORK FOR GROWING GRAPHS
+
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/GENERATIVE_GRAPH_CONVOLUTIONAL_NETWORK_FOR_GROWING_GRAPHS.txt.png" alt="">
+
+- **Abstract:** Modeling generative process of growing graphs has wide ap- plications in social networks and recommendation systems, where cold start problem leads to new nodes isolated from ex- isting graph. Despite the emerging literature in learning graph representation and graph generation, most of them can not handle isolated new nodes without nontrivial modifications. The challenge arises due to the fact that learning to gener- ate representations for nodes in observed graph relies heav- ily on topological features, whereas for new nodes only node attributes are available. Here we propose a unified genera- tive graph convolutional network that learns node represen- tations for all nodes adaptively in a generative model frame- work, by sampling graph generation sequences constructed from observed graph data. We optimize over a variational lower bound that consists of a graph reconstruction term and an adaptive Kullback-Leibler divergence regularization term. We demonstrate the superior performance of our approach on several benchmark citation network datasets.
+
+- **Slide link:** http://210.31.72.204/f/494
+
+
+---
+
 - **Date:** 2019.04.08
 
 - **Reporter:** Xin Ruyue
