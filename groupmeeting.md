@@ -6,6 +6,26 @@ title: Group Meeting List
 
 # 2019 spring semester
 
+---
+
+- **Date:** 2019.04.22
+
+- **Reporter:** Zhang Zhang
+
+- **Title:** Learning Discrete Structures for Graph Neural Networks
+
+
+- **Keywords:**
+<br>
+<img src="./img/keyword/Learning_Discrete_Structures_for_Graph_Neural_Networks.txt.png" alt="">
+
+<p style="color:#eee;">(wanna know how we generate this word cloud? you can visit this <a href="https://github.com/3riccc/wordcloud_for_bnusss">github page</a>)</p>
+
+- **Abstract:** Graph neural networks (GNNs) are a popular class of machine learning models whose major advantage is their ability to incorporate a sparse and discrete dependency structure between data points. Unfortunately, GNNs can only be used when such a graph-structure is available. In practice, however, real-world graphs are often noisy and incomplete or might not be available at all. With this work, we propose to jointly learn the graph structure and the parameters of graph convolutional networks(GCNs) by approximately solving a bilevel program that learns a discrete probability distribution on the edges of the graph. This allows one to apply GCNs not only in scenarios where the given graph is incomplete or corrupted but also in those where a graph is not available. We conduct a series of experiments that analyze the behavior of the proposed method and demonstrate that it outperforms related methods by a significant margin.
+
+
+- **Slide link:** http://210.31.72.204/f/500
+
 
 ---
 
