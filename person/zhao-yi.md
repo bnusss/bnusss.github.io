@@ -3,10 +3,11 @@ layout: default
 title: Yi Zhao
 ---
 
+
 #### [中文](https://bnusss.github.io/person/zhao-yi-zh.html)
 
 
-<img src="/img/people/zhaoyi.jpg" height="200px" width="200px" />
+<img src="/img/people/zhaoyi.jpeg" height="200px" width="200px" />
 
 
 ## Contact Me

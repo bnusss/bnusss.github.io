@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Discrete Optimization Problems
-image: /img/project_imgs/dlon/dlon-logo.png
+image: /img/project_imgs/ion/input-output.jpg
 description: We are trying to use Gumbel-softmax gradient estimators to solve many discrete optimization problems.
 people:
   - ljing

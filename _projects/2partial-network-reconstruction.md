@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 基于收敛的GCN-VAE重构部分网络
-image: /img/project_imgs/dlon/dlon-logo.png
+image: /img/project_imgs/ne/networkembedding.png
 description: 本方法基于收敛的GCN-VAE，通过已知的部分网络预测整体的网络结构。
 people:
   - cmengyuan

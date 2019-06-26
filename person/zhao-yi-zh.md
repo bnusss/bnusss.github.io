@@ -7,7 +7,7 @@ title: 赵诣
 #### [English Version](https://bnusss.github.io/person/zhao-yi.html)
 
 
-<img src="/img/people/zhaoyi.jpg" height="200px" width="200px" />
+<img src="/img/people/zhaoyi.jpeg" height="200px" width="200px" />
 
 
 ## 联系方式
