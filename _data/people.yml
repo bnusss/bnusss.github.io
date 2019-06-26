@@ -41,17 +41,32 @@ wshuo:
     image: /img/people/wangshuo.jpg
     webpage: https://bnusss.github.io/person/wang-shuo.html
 
-zzhang:
-    display_name: "Zhang Zhang"
-    role: staff
-    image: /img/people/zhangzhang.png
-    webpage: https://3riccc.github.io/#
-
 lyiling:
     display_name: "Yiling Lin"
     role: staff
     image: /img/people/linyiling.png
     webpage: https://yilinglin010.github.io/joyful-world/
+truyi:
+    display_name: "Ruyi Tao"
+    role: staff
+    image: /img/people/taoruyi.png
+    # webpage: 
+zyi:
+    display_name: "Yi Zhao"
+    role: staff
+    image: /img/people/zhaoyi.jpeg
+    webpage: https://bnusss.github.io/person/zhao-yi.html
+hqiao:
+    display_name: "Qiao Hu"
+    role: staff
+    image: /img/people/huqiao.png
+    webpage: https://bnusss.github.io/person/hu-qiao.html
+wchaohui:
+    display_name: "Chaohui Wang"
+    role: staff
+    image: /img/people/wangchaohui.png
+    webpage: https://bnusss.github.io/person/wang-chao-hui.html
+
 
 
 # Grads
@@ -111,6 +126,14 @@ mmuyun:
     role: grad
     image: /img/people/moumuyun.png
     webpage: https://bnusss.github.io/person/mou-mu-yun.html
+
+zzhang:
+    display_name: "Zhang Zhang"
+    role: grid
+    image: /img/people/zhangzhang.png
+    webpage: https://3riccc.github.io/#
+
+
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
