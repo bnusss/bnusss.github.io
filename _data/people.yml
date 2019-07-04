@@ -66,6 +66,12 @@ wchaohui:
     role: staff
     image: /img/people/wangchaohui.png
     webpage: https://bnusss.github.io/person/wang-chao-hui.html
+wting:
+    display_name: "Ting Wang"
+    role: staff
+    image: /img/people/wangting.png
+    webpage: https://bnusss.github.io/person/wang-ting.html
+
 
 
 
@@ -129,7 +135,7 @@ mmuyun:
 
 zzhang:
     display_name: "Zhang Zhang"
-    role: grid
+    role: grad
     image: /img/people/zhangzhang.png
     webpage: https://3riccc.github.io/#
 
