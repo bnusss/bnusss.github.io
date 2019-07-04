@@ -50,27 +50,17 @@ Recently, deep Learning has gained success in many areas such as image classi- f
 
 # GGN Architecture
 
-<div id="pos31"></div>
 
-## Problem Overview
-
-The goal of our Gumbel Graph Network is to reconstruct the interaction graph and simulate the dynamics from the observational data of $N$ interacting objects. 
-
-<br>
-Typically, we assume that the system dynamics that we are interested can be described by a differential equation $dX/dt = \psi(X^t, A)$ or the discrete iteration $ X^t=\psi(X^{t-1}, A)$, where ${ X }^{ t }=({ X }_{ 1 }^{ t },...,{ X }_{ N }^{ t })$ denotes the states of $N$ objects at time $t$, and ${ X }_{ i }$ is the state of the object $i$.  $\psi$ is the dynamical function, and $A$ is the adjacency matrix of an unweighted directed graph. However, $\psi$ and $A$ are unknown for us, and they will be inferred or reconstructed from a segment of time series data, i.e., $X=({ X }^{ t },...,{ X }^{ t+P })$, where $P$ is the number of prediction steps. 
-<br>
-Thus, our algorithm aims to learn the network structure (Specifically, the adjacency matrix) and the dynamical model $\psi$ simultaneously in an unsupervised way.
-<br>
 
 
 <div id="pos32"></div>
 
 ## Framework
 
-The general framework of our model is shown in \ref{fig:structure}. The input of the model is the feature of all nodes at time step $t$, and the output of the model is the feature of all nodes in the following $P$ steps. 
+The general framework of our model is shown in the figure. The input of the model is the feature of all nodes at time step $t$, and the output of the model is the feature of all nodes in the following $P$ steps. 
 The model consists of two modules, a network generator and a dynamics learner. The job of the generator is to generate an adjacency matrix, and the learner will use the adjacency matrix generated and $X^{t}$(feature of all nodes at time $t$) to predict ${ X }^{ t+1 },...,{ X }^{ t+P }$,(feature of all nodes from time $t+1$ to $t+P$).
 
-The Network Generator module uses the Gumbel softmax trick\cite{jang2016categorical} to generate the adjacency matrix. Details are explained in subsection 3.
+The Network Generator module uses the Gumbel softmax trick to generate the adjacency matrix. Details are explained in subsection 3.
 The goal of the Dynamics Learner is to map the features of all nodes from time $t$ to time $t+1$ through generated adjacency matrix. Similar to NRI's design\cite{kipf_neural_2018}, our GNN comprises of 4 mapping processes between nodes and edges, which can be accomplished through MLP, CNN or RNN module. In this article, we use MLP. Details are further explained in subsection 4. To learn the complex non-linear process, we use Graph Neural Network instead of Graph Converlutional Network\cite{kipf2016semi}, since the latter does not consider the nonlinear coupling between nodes while sometimes it exists (for example, Kuramoto model).
 
 The temporal complexity and the spatial complexity are both $O(N^2)$.
