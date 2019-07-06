@@ -6,6 +6,7 @@ description:
 people:
   - wchaohui
   - wting
+  - cxi
   - zjiang
 ---
 

@@ -71,6 +71,11 @@ wting:
     role: staff
     image: /img/people/wangting.png
     webpage: https://bnusss.github.io/person/wang-ting.html
+cxi:
+    display_name: "Xi Chen"
+    role: staff
+    image: /img/people/chenxi.png
+    webpage: https://bnusss.github.io/person/chen-xi.html
 
 
 
