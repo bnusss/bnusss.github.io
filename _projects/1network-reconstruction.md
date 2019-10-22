@@ -14,8 +14,11 @@ people:
 
 
 
+## Paper
 
-# Catalog
+The preview PDF has been published in arxiv: [A General Deep Learning Framework for Network Reconstruction and Dynamics Learning](https://arxiv.org/abs/1812.11482)
+
+## Catalog
 
 [Abstract](#pos1)
 

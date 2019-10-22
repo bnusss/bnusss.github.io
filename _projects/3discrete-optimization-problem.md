@@ -10,6 +10,10 @@ people:
 
 <hr/>
 
+## Paper
+
+The preview PDF of this paper has been published in arxiv: [Gumbel-softmax Optimization: A Simple General Framework for Combinatorial Optimization Problems on Graphs](https://arxiv.org/pdf/1909.07018.pdf)
+
 # Discrete Optimization Problems
 
 The current paradigm of fully differentiable supervised learning doesn’t allow us to make discrete choices in our model because sampling processes are undifferentiable. Traditional methods include score function estimator such as REINFORCE (Williams, 1992) to estimate gradients. However, the REINFORCE suffers from high variance and is consequently slow to converge. Recently reparameterization trick such as Gumbel-softmax provides another approach for differentiable sampling. We can benefit from Gumbel-softmax gradient estimators to solve many discrete optimization problems.
