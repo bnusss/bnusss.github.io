@@ -65,3 +65,9 @@ PYTHON=/path/to/python`.
 [pybtex]: http://pybtex.sourceforge.net
 
 
+publications update:
+/_include/pubs.html
+ 
+news update:
+/_data/news.yml
+
