@@ -69,5 +69,5 @@ publications update:
 /_include/pubs.html
  
 news update:
-/_data/news.yml
+/_posts
 
