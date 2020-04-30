@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Deep Learning based method for Network Reconstruction
-image: /img/project_imgs/dlon/dlon-logo.png
+<!-- image: /img/project_imgs/dlon/dlon-logo.png -->
 description: We are trying to use a general, deep learning based method to reconstruct network structure and dynamics simultaneously.
 people:
   - zzhang
