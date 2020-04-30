@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Survival analysis and enterprise financial distress analysis
-image: /img/project_imgs/collective_attention/collective-logo.png
+<!-- image: /img/project_imgs/collective_attention/collective-logo.png -->
 description: 
 people:
   - hqiao
