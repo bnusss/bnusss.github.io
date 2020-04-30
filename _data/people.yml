@@ -35,19 +35,19 @@ lxiaomeng:
 # Staff
 # Alphabetical order
 
-wshuo:
-    wting:
+wting:
     display_name: "Ting Wang"
     role: staff
     image: /img/people/wangting.png
     webpage: https://bnusss.github.io/person/wang-ting.html
 
+wshuo:
     display_name: "Shuo Wang"
     role: staff
     image: /img/people/wangshuo.jpg
     webpage: https://bnusss.github.io/person/wang-shuo.html
 
-    wlifei:
+wlifei:
     display_name: "Lifei Wang"
     role: staff
     image: /img/people/wanglifei.jpeg
