@@ -41,16 +41,17 @@ wshuo:
     image: /img/people/wangshuo.jpg
     webpage: https://bnusss.github.io/person/wang-shuo.html
 
-lyiling:
-    display_name: "Yiling Lin"
-    role: staff
-    image: /img/people/linyiling.png
-    webpage: https://yilinglin010.github.io/joyful-world/
-truyi:
-    display_name: "Ruyi Tao"
-    role: staff
-    image: /img/people/taoruyi.png
-    # webpage: 
+# lyiling:
+#     display_name: "Yiling Lin"
+#     role: staff
+#     image: /img/people/linyiling.png
+#     webpage: https://yilinglin010.github.io/joyful-world/
+# truyi:
+#     display_name: "Ruyi Tao"
+#     role: staff
+#     image: /img/people/taoruyi.png
+#     # webpage: 
+
 zyi:
     display_name: "Yi Zhao"
     role: staff
@@ -71,12 +72,23 @@ wting:
     role: staff
     image: /img/people/wangting.png
     webpage: https://bnusss.github.io/person/wang-ting.html
-cxi:
-    display_name: "Xi Chen"
-    role: staff
-    image: /img/people/chenxi.png
-    webpage: https://bnusss.github.io/person/chen-xi.html
+# cxi:
+#     display_name: "Xi Chen"
+#     role: staff
+#     image: /img/people/chenxi.png
+#     webpage: https://bnusss.github.io/person/chen-xi.html
 
+gyu:
+    display_name: "Yu Guo"
+    role: staff
+    image: /img/people/guoyu.png
+    webpage: #
+
+tran:
+    display_name: "Ran Tao"
+    role: staff
+    image: /img/people/taoran.png
+    webpage: #
 
 
 
@@ -94,23 +106,23 @@ gweiwei:
     image: /img/people/guweiwei.png
     webpage: https://bnusss.github.io/person/gu-wei-wei.html
 
-gli:
-    display_name: "Li Gong"
-    role: grad
-    image: /img/people/gongli.png
-    webpage: https://bnusss.github.io/person/gong-li.html
+# gli:
+#     display_name: "Li Gong"
+#     role: grad
+#     image: /img/people/gongli.png
+#     webpage: https://bnusss.github.io/person/gong-li.html
 
-xruyue:
-    display_name: "Ruyue Xin"
-    role: grad
-    image: /img/people/xinruyue.png
-    webpage: https://bnusss.github.io/person/xin-ru-yue.html
+# xruyue:
+#     display_name: "Ruyue Xin"
+#     role: grad
+#     image: /img/people/xinruyue.png
+#     webpage: https://bnusss.github.io/person/xin-ru-yue.html
 
-wlei:
-    display_name: "Lei Wen"
-    role: grad
-    image: /img/people/wenlei.png
-    webpage: https://bnusss.github.io/person/wen-lei.html
+# wlei:
+#     display_name: "Lei Wen"
+#     role: grad
+#     image: /img/people/wenlei.png
+#     webpage: https://bnusss.github.io/person/wen-lei.html
 
 cmengyuan:
     display_name: "Mengyuan Chen"
@@ -143,6 +155,17 @@ zzhang:
     role: grad
     image: /img/people/zhangzhang.png
     webpage: https://3riccc.github.io/#
+
+zyan:
+    display_name: "Yan Zhang"
+    role: grad
+    image: /img/people/zhangyan.png
+    webpage: #
+xjing:
+    display_name: "Jing Xu"
+    role: grad
+    image: /img/people/xujing.png
+    webpage: #
 
 
 

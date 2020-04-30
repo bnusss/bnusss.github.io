@@ -71,3 +71,5 @@ publications update:
 news update:
 /_posts
 
+projects update:
+/_projects
