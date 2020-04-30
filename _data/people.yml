@@ -36,10 +36,23 @@ lxiaomeng:
 # Alphabetical order
 
 wshuo:
+    wting:
+    display_name: "Ting Wang"
+    role: staff
+    image: /img/people/wangting.png
+    webpage: https://bnusss.github.io/person/wang-ting.html
+
     display_name: "Shuo Wang"
     role: staff
     image: /img/people/wangshuo.jpg
     webpage: https://bnusss.github.io/person/wang-shuo.html
+
+    wting:
+    display_name: "Lifei Wang"
+    role: staff
+    image: /img/people/wanglifei.jpeg
+    webpage: #
+
 
 # lyiling:
 #     display_name: "Yiling Lin"
@@ -67,11 +80,7 @@ wchaohui:
     role: staff
     image: /img/people/wangchaohui.png
     webpage: https://bnusss.github.io/person/wang-chao-hui.html
-wting:
-    display_name: "Ting Wang"
-    role: staff
-    image: /img/people/wangting.png
-    webpage: https://bnusss.github.io/person/wang-ting.html
+
 # cxi:
 #     display_name: "Xi Chen"
 #     role: staff
