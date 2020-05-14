@@ -2,7 +2,7 @@
 layout: project
 title: Gumbel-softmax based optimization framework
 <!-- image: /img/project_imgs/dlon/dlon-logo.png -->
-description: We are trying to use a general, deep learning based method to reconstruct network structure and dynamics simultaneously.
+description: We are trying to use Gumbel-softmax based framework to solve many discrete optimization problems, especially combinatorial optimization problems on graphs.
 people:
   - lyaoxin
   - ljing
