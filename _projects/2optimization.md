@@ -4,11 +4,10 @@ title: Gumbel-softmax based optimization framework
 <!-- image: /img/project_imgs/dlon/dlon-logo.png -->
 description: We are trying to use a general, deep learning based method to reconstruct network structure and dynamics simultaneously.
 people:
-  - zzhang
-  - cmengyuan
-  - wlifei
-  - zyi
-  - tran
+  - lyaoxin
+  - ljin
+  - zjiang
+  - mmuyun
 ---
 
 # 背景
