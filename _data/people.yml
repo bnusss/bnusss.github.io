@@ -165,6 +165,12 @@ zzhang:
     image: /img/people/zhangzhang.png
     webpage: https://3riccc.github.io/#
 
+lyaoxin:
+    display_name: "Yaoxin Li"
+    role: grad
+    image: /img/people/liyaoxin.png
+    webpage: #
+
 zyan:
     display_name: "Yan Zhang"
     role: grad

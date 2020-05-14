@@ -73,3 +73,8 @@ news update:
 
 projects update:
 /_projects
+
+
+poeple update:
+/_data/people.yml
+/img/people/
