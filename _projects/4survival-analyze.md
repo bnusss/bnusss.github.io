@@ -2,7 +2,7 @@
 layout: project
 title: Survival analysis and enterprise financial distress analysis
 <!-- image: /img/project_imgs/collective_attention/collective-logo.png -->
-description: 
+description: We study to find the commom factors/indicatiors that lead a enterprise to success or to bankruptcy,to make predictions about these factors and  to manage these factors properly.
 people:
   - hqiao
   - wchaohui
