@@ -59,11 +59,7 @@ wlifei:
 #     role: staff
 #     image: /img/people/linyiling.png
 #     webpage: https://yilinglin010.github.io/joyful-world/
-# truyi:
-#     display_name: "Ruyi Tao"
-#     role: staff
-#     image: /img/people/taoruyi.png
-#     # webpage: 
+
 
 zyi:
     display_name: "Yi Zhao"
@@ -103,11 +99,11 @@ tran:
 
 # Grads
 # Alphabetical order
-lxiaodan:
-    display_name: "Xiaodan Lou"
-    role: grad
-    image: /img/people/louxiaodan.png
-    webpage: https://rosdays.wordpress.com/
+# lxiaodan:
+#     display_name: "Xiaodan Lou"
+#     role: grad
+#     image: /img/people/louxiaodan.png
+#     webpage: https://rosdays.wordpress.com/
 
 gweiwei:
     display_name: "Weiwei Gu"
@@ -182,7 +178,11 @@ xjing:
     image: /img/people/xujing.png
     webpage: #
 
-
+truyi:
+    display_name: "Ruyi Tao"
+    role: staff
+    image: /img/people/taoruyi.png
+    # webpage: 
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
