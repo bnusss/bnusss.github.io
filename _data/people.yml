@@ -37,7 +37,7 @@ lxiaomeng:
 
 wting:
     display_name: "Ting Wang"
-    role: co
+    role: staff
     image: /img/people/wangting.png
     webpage: https://bnusss.github.io/person/wang-ting.html
 
@@ -63,12 +63,12 @@ zyi:
     webpage: https://bnusss.github.io/person/zhao-yi.html
 hqiao:
     display_name: "Qiao Hu"
-    role: co
+    role: staff
     image: /img/people/huqiao.png
     webpage: https://bnusss.github.io/person/hu-qiao.html
 wchaohui:
     display_name: "Chaohui Wang"
-    role: co
+    role: staff
     image: /img/people/wangchaohui.png
     webpage: https://bnusss.github.io/person/wang-chao-hui.html
 
@@ -114,7 +114,7 @@ xruyue:
     role: grad
     image: /img/people/xinruyue.png
     webpage: https://bnusss.github.io/person/xin-ru-yue.html
-    
+
 gli:
     display_name: "Li Gong"
     role: grad

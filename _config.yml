@@ -18,6 +18,7 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
     - {key: faculty, name: Faculty}
     - {key: postdoc, name: Researchers}
+    - {key: staff, name: Staff}
     - {key: co, name: Co-author}
     - {key: ugrad, name: Undergraduate Students}
     - {key: grad, name: Graduate Students}
