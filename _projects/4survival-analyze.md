@@ -8,6 +8,7 @@ people:
   - wchaohui
   - gyu
   - xjing
+  - truyi
 ---
 
 
