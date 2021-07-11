@@ -41,11 +41,6 @@ wting:
     image: /img/people/wangting.png
     webpage: https://bnusss.github.io/person/wang-ting.html
 
-wshuo:
-    display_name: "Shuo Wang"
-    role: staff
-    image: /img/people/wangshuo.jpg
-    webpage: https://bnusss.github.io/person/wang-shuo.html
 
 wlifei:
     display_name: "Lifei Wang"
@@ -148,6 +143,11 @@ ljing:
     image: /img/people/liujing.png
     webpage: https://bnuliujing.github.io/
 
+wshuo:
+    display_name: "Shuo Wang"
+    role: grad
+    image: /img/people/wangshuo.jpg
+    webpage: https://bnusss.github.io/person/wang-shuo.html
 
 mmuyun:
     display_name: "Muyun Mou"
@@ -180,9 +180,16 @@ xjing:
 
 truyi:
     display_name: "Ruyi Tao"
-    role: staff
+    role: grad
     image: /img/people/taoruyi.png
     # webpage: 
+chao:
+    display_name: "Hao Chen"
+    role: grad
+    image: /img/people/chenhao.jpg
+    # webpage: 
+
+
 
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
