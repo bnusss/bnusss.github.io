@@ -32,73 +32,69 @@ lxiaomeng:
 #    bio: "Program Director"
 
 
-# Staff
+# Co-author
 # Alphabetical order
 
 wting:
     display_name: "Ting Wang"
-    role: staff
+    role: co
     image: /img/people/wangting.png
     webpage: https://bnusss.github.io/person/wang-ting.html
 
 
 wlifei:
     display_name: "Lifei Wang"
-    role: staff
+    role: co
     image: /img/people/wanglifei.png
     webpage: #
 
 
 # lyiling:
 #     display_name: "Yiling Lin"
-#     role: staff
+#     role: co
 #     image: /img/people/linyiling.png
 #     webpage: https://yilinglin010.github.io/joyful-world/
 
 
 zyi:
     display_name: "Yi Zhao"
-    role: staff
+    role: co
     image: /img/people/zhaoyi.jpeg
     webpage: https://bnusss.github.io/person/zhao-yi.html
 hqiao:
     display_name: "Qiao Hu"
-    role: staff
+    role: co
     image: /img/people/huqiao.png
     webpage: https://bnusss.github.io/person/hu-qiao.html
 wchaohui:
     display_name: "Chaohui Wang"
-    role: staff
+    role: co
     image: /img/people/wangchaohui.png
     webpage: https://bnusss.github.io/person/wang-chao-hui.html
 
-# cxi:
-#     display_name: "Xi Chen"
-#     role: staff
-#     image: /img/people/chenxi.png
-#     webpage: https://bnusss.github.io/person/chen-xi.html
+cxi:
+    display_name: "Xi Chen"
+    role: co
+    image: /img/people/chenxi.png
+    webpage: https://bnusss.github.io/person/chen-xi.html
 
 gyu:
     display_name: "Yu Guo"
-    role: staff
+    role: co
     image: /img/people/guoyu.png
     webpage: #
 
 tran:
     display_name: "Ran Tao"
-    role: staff
+    role: co
     image: /img/people/taoran.png
     webpage: #
 
 
 
-# Grads
+# grad
 # Alphabetical order
-# lxiaodan:
-#     display_name: "Xiaodan Lou"
-#     role: grad
-#     image: /img/people/louxiaodan.png
-#     webpage: https://rosdays.wordpress.com/
+
 
 gweiwei:
     display_name: "Weiwei Gu"
@@ -106,86 +102,97 @@ gweiwei:
     image: /img/people/guweiwei.png
     webpage: https://bnusss.github.io/person/gu-wei-wei.html
 
-# gli:
-#     display_name: "Li Gong"
-#     role: grad
-#     image: /img/people/gongli.png
-#     webpage: https://bnusss.github.io/person/gong-li.html
+lxiaodan:
+    display_name: "Xiaodan Lou"
+    role: grad
+    image: /img/people/louxiaodan.png
+    webpage: https://rosdays.wordpress.com/
 
-# xruyue:
-#     display_name: "Ruyue Xin"
-#     role: grad
-#     image: /img/people/xinruyue.png
-#     webpage: https://bnusss.github.io/person/xin-ru-yue.html
 
-# wlei:
-#     display_name: "Lei Wen"
-#     role: grad
-#     image: /img/people/wenlei.png
-#     webpage: https://bnusss.github.io/person/wen-lei.html
+xruyue:
+    display_name: "Ruyue Xin"
+    role: grad
+    image: /img/people/xinruyue.png
+    webpage: https://bnusss.github.io/person/xin-ru-yue.html
+    
+gli:
+    display_name: "Li Gong"
+    role: grad
+    image: /img/people/gongli.png
+    webpage: https://bnusss.github.io/person/gong-li.html
 
+wlei:
+    display_name: "Lei Wen"
+    role: grad
+    image: /img/people/wenlei.png
+    webpage: https://bnusss.github.io/person/wen-lei.html
+
+
+
+# ugraddent
+# Alphabetical order
 cmengyuan:
     display_name: "Mengyuan Chen"
-    role: grad
+    role: ugrad
     image: /img/people/chenmengyuan_1.png
     webpage: https://bnusss.github.io/person/chen-meng-yuan.html
 
 gfei:
     display_name: "Fei Gao"
-    role: grad
+    role: ugrad
     image: /img/people/gaofei.png
     webpage: https://bnusss.github.io/person/gao-fei.html
 
 
 ljing:
     display_name: "Jing Liu"
-    role: grad
+    role: ugrad
     image: /img/people/liujing.png
     webpage: https://bnuliujing.github.io/
 
 wshuo:
     display_name: "Shuo Wang"
-    role: grad
+    role: ugrad
     image: /img/people/wangshuo.jpg
     webpage: https://bnusss.github.io/person/wang-shuo.html
 
 mmuyun:
     display_name: "Muyun Mou"
-    role: grad
+    role: ugrad
     image: /img/people/moumuyun.png
     webpage: https://bnusss.github.io/person/mou-mu-yun.html
 
 zzhang:
     display_name: "Zhang Zhang"
-    role: grad
+    role: ugrad
     image: /img/people/zhangzhang.png
     webpage: https://3riccc.github.io/#
 
 lyaoxin:
     display_name: "Yaoxin Li"
-    role: grad
+    role: ugrad
     image: /img/people/liyaoxin.png
     webpage: #
 
 zyan:
     display_name: "Yan Zhang"
-    role: grad
+    role: ugrad
     image: /img/people/zhangyan.png
     webpage: #
 xjing:
     display_name: "Jing Xu"
-    role: grad
+    role: ugrad
     image: /img/people/xujing.png
     webpage: #
 
 truyi:
     display_name: "Ruyi Tao"
-    role: grad
+    role: ugrad
     image: /img/people/taoruyi.png
     # webpage: 
 chao:
     display_name: "Hao Chen"
-    role: grad
+    role: ugrad
     image: /img/people/chenhao.jpg
     # webpage: 
 

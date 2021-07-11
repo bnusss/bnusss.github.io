@@ -4,11 +4,14 @@ title: Home
 notitle: true
 
 role_groups:
-    - [faculty, postdoc, staff]
+    - [faculty, postdoc]
+    - [ugrad]
     - [grad]
+    - [co]
+
 
 role_remain:
-    - [collab, ugrad, ugrad-alum]
+    - [collab, ugrad-alum]
     - [alum]
 
 ---
@@ -78,7 +81,7 @@ role_remain:
 
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'grad' %}8{% else %}4{% endif %}">
+    <div class="col-md-{% if grp contains 'ugrad' or grp contains 'grad'%}8{% else %}4{% endif %}">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>
@@ -120,8 +123,8 @@ role_remain:
 {% endfor %}
 </div>
 
-<!--Remaining roles (collaborators, undergrads, alumni) -->
-<div class="row">
+<!--Remaining roles (graded,stu,co-author,profef) -->
+<!-- <div class="row">
 {% for grp in page.role_remain %}
     <div class="col-md-{% if grp contains "alum" %}7{% else %}5{% endif %}">
         {% for role in site.roles %}
@@ -151,7 +154,7 @@ role_remain:
         {% endfor %}
     </div>
 {% endfor %}
-</div>
+</div> -->
 
 
 <h2>Funding</h2>
